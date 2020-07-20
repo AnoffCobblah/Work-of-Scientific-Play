@@ -1,0 +1,816 @@
+This is a reproduction of a library book that was digitized
+by Google as part of an ongoing effort to preserve the
+information in books and make it universally accessible.
+http://books.google.com
+
+            <•    '
+                                   S3T10M3H
+                     tfQVUQ
+                              "°M/»V   J}
+                            **«,       a^r
+                                 'aaf*
+                      ERIOANUS
+By ft-A- fmim, &A- IP.1
+ Lorloor*. f\0BEi\T HahdWicke, 192, Piccadilly.
+
+
+
+
+           GUIDE
+             TO THK
+KNOWLEDGE OF THE CONSTELLATIONS.
+
+           LONDON : PRINTED BY
+SPOTTXSWOODB AND CO., NEW.STREET SQCASK
+         AND PARLIAMENT STREET
+                      >
+
+HALF-HOURS WITH THE STARS:
+                                 A PLAIN AND EASY GUIDE
+                                                      TO
+         THE KNOWLEDGE OF THE CONSTELLATIONS,
+                   SHOWING, IN 12 MAPS, THE POSITION OF THE PRINCIPAL
+     STAR.GROUPS NIGHT AFTER NIGHT THROUGHOUT THE YEAR, WITH INTRODUCTION
+                         AND A SEPARATE EXPLANATION OF EACH MAP.
+                               TRUE FOR EVERY YEAR.
+                                                    BY
+                   RICHARD A. PROCTOR. B.A., F.R.A.S.
+  I ATE SCHOLAR OF ST. JOHN'S COLLEOE, CAMBRIDGE, AND MATHEMATICAL SCHOLAR OF KINO'S COLLECE, LONDON :
+      AUTHOR OF 'SATURN AND ITS SYSTEM,' ' HALF.HOURS WITH THE TELESCOPE,' 'THE HANDBOOK OF THE STARS,'
+                                      ' SUNVIEWS OF THE EARTH,' ETC. ETC.
+                                                LONDON :
+           ROBERT HARDWICKE, 192 PICCADILLY.
+                                                   1869.
+                                     /St,. ~h.                       Z/
+
+
+                                           PREFACE.
+The object which I have proposed to myself in the preparation of this work has been to teach
+the beginner the stars in a manner which there can be no misunderstanding.              I had the same
+object in view in preparing my Constellation-Seasons ; but experience has shown me that to attain
+that object it is necessary to consult the beginner himself. I found on doing this that my Constella
+tion-Seasons were not so well suited to the purpose I had in view as I had expected.          Meridians
+and parallels, equator, ecliptic, and tropics, which had seemed to be absolutely necessary to the
+completeness of the maps, tended only to confuse the beginner.          So also did the introduction of
+fourth-magnitude stars and the less important constellations.        Other features of those maps, also,
+while increasing their utility (I think) to the more advanced student, rendered their meaning less
+obvious than is desirable for the beginner.    In these maps I have discarded everything which could
+by any possibility be confusing.     In place of letters indicating the points of the compass, the words
+eastern lwrizon, north-eastern horizon, &c. are written in full, and natural features round each map
+indicate the fact that the circumference of the map really corresponds to the horizon of the
+observer. The word ' overhead ' is put on the centre of each map in place of ' zenith.' The hours to
+which each map corresponds for different days are written in according to the simplest mode of
+expressing them.     And, lastly, the days proper for the use of each map will be found to run without
+interruption from the beginning of the year in Map I., to the end of the year in Map XII. ; the
+interval between successive dates never exceeding four days.
+     I believe I am not claiming too much for these maps in saying that they are the first series
+ever published, which the beginner could not possibly misinterpret, even if he paid no attention to the
+accompanying letterpress.
+                                                                                           E. A. P.
+    South Lambeth : 1809.
+
+
+                     HALF-HOUR ON THE USE OF THE MAPS.
+It is veey east to gain a knowledge of the stars, if the learner sets to work in the proper manner.
+But he commonly meets with a difficulty at the outset of his task.         He provides himself with a set
+of the ordinary star-maps, and then finds himself at a loss how to make use of them.            Such maps
+tell him nothing of the position of the constellations on the sky.        If he happen to recognise a con
+stellation, then indeed his maps, if properly constructed, will tell him the names of the stars forming
+the constellation, and also he may be able to recognise a few of the neighbouring constellations.
+But when he has done this, he may meet with a new difficulty, even as respects this very constella
+tion.    For if he look for it again some months later, he will neither find it in its former place nor
+will it present the same aspect, —if indeed it happen to be above the horizon at all.
+      It is clear, then, that what the learner wants is a set of maps specially constructed to show him in
+what part of the sky the constellations are to be looked for.       He ought on any night of the year to
+be able to turn at once to the proper map, and in that map he ought to see at once what to look for,
+towards what point of the compass each visible constellation lies, and how high it is above the
+horizon.     And, if possible (as the present work shows is the case), one map ought to suffice to
+exhibit the aspect of the whole heavens, in order that the beginner may not be confused by turning
+from map to map, and trying to find out how each fits in with the others.
+     It is to fulfil these requirements that the present maps have been constructed.                 Each
+exhibits the aspect of the whole sky at a given day and hour.             The circumference of the map
+represents the natural horizon, the middle of the map representing the part of the sky which lies
+immediately overhead.        If the learner hold one of these maps over his head, so as to look vertically
+upwards at it, the different parts of the horizon marked in round the circumference being turned
+towards the proper compass points, he will see the same view of the heavens as he would if he were
+to lie on his back and look upwards at the sky, only that the map is a planisphere and the sky a
+hemisphere.
+     But although this illustration serves to indicate the nature of the maps, the actual mode of
+using them is more convenient.
+
+8                                    ITALF-IIOUR ON THE USE OF THE MAPS.
+      Let it first be noted that properly speaking the maps have neither top, bottom, nor sides.                 Each
+map may be held with any part of the circumference downward, then the centre of the map is to be
+looked upon as the top for that part of the circumference.                The portion of the map lying beneath
+the centre represents the portion of the sky lying between the point overhead and a certain portion
+of the horizon—the part in fact corresponding to the particular part of the circumference which is
+turned downwards. Thus if on any night we wish to learn what are the stars towards the north, we
+look for the map corresponding to that night.               At the hour named the stars towards the north will
+be those shown between the centre of the map and the top ; and, of course, we hold the map upside
+down so as to bring the centre above the northern part of the circumference.
+      But this matter will be more clearly understood by comparing the account of any of the accom
+panying maps with the map itself.
+      Again, it must be noted that although the maps are necessarily arranged in a certain order,
+there is in reality no first or last in the series.          The map numbered I. follows the map numbered
+XII. in exactly the same manner as the latter follows the map numbered XI.                        The maps form a
+circular series, in fact.
+      The only reason for numbering the maps as at present, is that the map numbered I. happens to
+exhibit the aspect of the sky at a convenient hour on the night of January 1.                 It will be found that
+the dates follow on with intervals of three or four days right round the year, the end of the year
+falling in the left-hand column of map I., while the beginning of the year is in the middle column of
+the same map.*
+      It will be seen at once that a map can always be found corresponding to a convenient hour on
+any night of the year—except only in Midsummer, when on a few of the dates, night has not begun
+at the hour named.        It was impossible without spoiling the regularity of the dating, or adopting an
+inconveniently late hour for all the maps, to avoid this difficulty.                But as a matter of fact the
+difficulty disappears at once when the student is told that on any date named under a map, the
+aspect of the sky two hours later than that named is that represented in the following map.                      Thus
+at eight o'clock in the evening of June 21, the aspect of the stars is as shown in map VI., but the
+stars cannot be seen because it is still broad daylight : at ten o'clock, however, on the same night,
+the aspect of the sky is that shown in map VII., as indeed the first date under that map shows.
+Applying this rule to the few occasions on which the hour named is not available for observation (five
+or six in all out of ninety-six dates) the observer can manage as well for those occasions as for any
+ others.
+   * It may be mentioned in pausing, that the dates have not been thrown in so as to fall regularly round the year, but
+correspond with the variations due to the earth's variable motion round the sun.
+
+                                HALF-HOUR ON THE USE OF THE MAPS.                                      9
+     Next as to finding the north point, or any point of the compass which will enable the observer to
+determine the rest.    If he is only familiar with the aspect of those seven bright stars of the Great
+Bear which have been called Charles' Wain, the Butcher's Cleaver, and by other names, he can always
+determine the north point by means of the two stars called the pointers, since these seven stars
+never set.   In the explanation of each map I have shown where the Great Bear is to be looked for
+on each night, the observer being assumed to have such a general knowledge of the direction of the
+compass-points as will suffice for the purpose of finding so marked a collection of stars.     Thus the
+pole-star is found, and for the purpose of such observations as are here considered, this star may be
+looked upon as marking the exact direction of the north.
+     Perhaps nothing further is required, but if the observer prefer it he can determine the north point
+conveniently at noon by setting up a vertical stick in the sunlight and noting the direction in which
+the shadow lies. But this must be done at true noon ; that is, when the sun is due south, and this
+does not agree with clock-time. However, if the observer notices that from December 25th to April
+15th he must make the observation in the afternoon, thence to June 14th in the forenoon, thence to
+August 31st in the afternoon, and thence to December 25th in the forenoon ; the time after or before
+noon being taken from the column in Hannay's Almanac, headed ' equation of time ' (the fourth
+column after the calendar for each month), he can learn the north point on any day of the year with
+the utmost nicety.   Once the observation has been made, he can note what objects (these should be
+distant) lie towards the different points of the compass, and from that time he can use the accom
+panying maps without any reference to the Great Bear and the pointers.
+     It is worth noticing that the stars called the Guardians of the Pole form no bad time-piece when
+used with the aid of such maps as the present. They revolve round the pole once in twenty-four
+hours (less about four minutes), in a direction contrary to that of a clock's hands. But stars near
+the equator, whose motions are much more rapid, afford a yet better measure of time, if the direc
+tion of the south point is well determined.
+     Of course, the observer who really wishes to become an astronomer, will not rest satisfied by
+learning only the principal stars shown in these maps.       By means of regular star-maps he will be
+able to explore the depths of all the constellations, having once learned their position and general
+appearance from the accompanying maps.          It will be well for the student to remember that the
+planets Venus, Mars, Jupiter, and Saturn, will at times appear among the constellations here shown.
+But besides that Venus and Jupiter can always be recognised by their superior light, and Mars and
+Saturn by the steadiness with which they shine, Hannay's Almanac will always show when those
+stars are above the horizon, their hours of rising, southing, and setting, and so on. As they never
+appear save among the zodiacal constellations, also, it becomes very easy to recognise them.
+                                                     B
+
+   10                             HALF-HOUR ON THE USE OP THE MAfS.
+         The following table exhibits the names of all the stars of the first three magnitudes to which
+   astronomers have given names ; at least, all those whose names are in common use :—
+   o Andromedre, Alpheratz             s Ceti, Baten Kaitos              a Ophiuchi, Pas Alhague
+  0            , Mirach, Mizar         o           , Mira                P          , Cebalrai
+   y          , Almach                 a Columbse, Phact                 a Ononis, Betelgeux
+   a Aquarii, Sadalmelik               a Coronse Bor., Alphecca          fi         , Pigel
+  fi          , Sadalwnd               a Corvi, Alchiba                  y          , Bellatrix
+  S          , Skat                    S          , Ali/ores             I          , Mintaka
+  a AquilsB, Altair                    a Crateris, Alkes                 i        ¦, Alnilam
+  $           , Alshain                a Cygni, Arided, Deneb Adige     a Pegasi, Markab
+  y           , Tarazed               fi           , Albireo            fi          , Scheat
+  a Arietis, Hamal                    a Draconis, Thuban                 y         , Algenib
+  li         , Sheratan               (i          , Ahcaid               f          , Enif
+  y          , Mesartim               y          , Etaiiin               J          , Homan
+  a Auriga!, Capclla                  li Eridani, Cursa                 a Persei, Mirfak
+ /3          , Meiikalinan            y           , Zaurac              li          , Algol
+ a Botitis, Arcturus                  a Geminorum, Castor                a Piscis Aust, Fomalhaut
+ 0          , Nekkar                  /3          , Pollux              i Sagittarii, Kaus Australis
+ t          , Izar, Mizar, Mirach     y          , Alhena               a Scorpionis, Antares, Cor Scorpionis
+ i)         , Muphrid                 S         , ll'asat               a Serpentis, Unukalhai
+ a Canum Ven., Cor Caroli             i          , Mebsuta              a Tauri, Aldeboran
+ a Canis Majoris, Sirius              a Ilerculis, Pas Algethi          li         t Nath
+li          , Mirzam                 li          , Korneforos           i]         , Alcyone (Pleiad)
+ i          , Adara                   a Hydra!, Alphard, Cor Hydra:     a Ursffl Majoris, Dubhe
+a Canis Minoris, Procyon             a Leonis, Regulus, Cor Leonis     P           , Merak
+ li          , Gomeim                                                  y          , Phecda
+aa Capricorni, Secunda Giedi         y          , Alyeiba              e           , Alioth
+I          , Deneb Algiedi           S          , Zosma                X,          , Mizar
+a Cassiopeia!, Schedar               a Leporis, Arneb
+li          , Chaph                  a Libra!, Zuben el Genubi         . _            Tiili'hn
+a Cephei, Alderamin                  (i          , Zuben el Chamali    a UresB Minoris, Polaris
+fi         , Alphirk                 y          , Zuben Hakrabi        ji         , Kochab
+y          , Errai.                  a Lyne, Vega                      a Virginis, Spica Azimech, Spica
+a Ceti, Menkar                       fi         , Sheliak              (i —       , Zavijava
+ii         , Diphda                  y          , Sulaphat             i          , Vindemiatrix
+
+                                            ,Southern, Wonxcn
+                                             THE SKY.
+on Dec 2/ al W o'clock;             on, dan,: 7 at/ 9ho clock;       on Jan.- /2 al/ 8\ o 'clock,
+on Deo Z4~ al Si o'clock,;          on Jcuv. S at/ 9 o'clock;        on Jan- /6 al/ 8k c 'clock,
+on, Dec. 28 al/9\ o'clock;          on Jan, 8 al 8% o'clock;         on .Jan/ 20 al/ 8 o 'clock;
+                                          IN THE EVENING.
+ "for the- names of the/ stars, corresponding to tfw above lettering, reler, to the/ list/ al p. Jt'
+                                                                                          Vincent Brooks S&y & Son Lith
+
+
+                                                   JANUARY,                                               11
+                 HALF-HOUR WITH THE STARS IN JANUARY.
+                                                   MAP I.
+  The Geeat Beab lies towards the north-east. The pointers are uppermost, and the pole-star is
+  towards the left.
+       The two stars known as The Guardians of the Pole (/3 and 7 of the Little Bear) hang below the
+ pole-star, slightly towards the right. The Dragon forms a loop of stars below the Little Bear.
+ Observe the Dragon's Head,
+                                     With eyes oblique retorted, that aslant
+                                     Shoot gleaming fire—
+ the eyes being the two stars # and 7 towards the left, and not far raised above the north-north-west
+ horizon.
+      The Lyre is low down on the left, its chief star, Vega, scintillating brilliantly. Still further on
+ the left, almost due north-west, is the fine cross of Cygnus, standing upright. Following the direction
+ indicated by the upright of the cross, raise the eyes towards the point overhead, and recognise the
+ constellation Cassiopeia, by the five bright stars forming a figure resembling the letter W (now
+raised on end, the points of the W to the left).
+      Returning to the horizon, and looking further round to the left, we see due east the constellation
+ Pegasus, or the Winged Horse. He is now inverted, his head being close to the horizon on the
+right. The square of Pegasus, formed by the bright stars, /3, a, 7, and Alpherat, will attract the
+observer's notice, and lead him to the constellation Andromeda, Alpherat being in Andromeda's head.
+The length of this constellation is now almost vertical ; and between the feet of Andromeda and the
+point overhead lies the constellation Perseus. Notice Algol (the Demon Star, as the Arabs termed it,)
+ lying due south-west, close up to the point overhead. Of the variations of this remarkable star a
+full account is given in ' Half-hours with the Telescope.' Usually the observer will see it of the
+second magnitude, however; as it only remains a fourth-magnitude star for about twenty minutes.
+Immediately below Perseus is Aries, recognisable by the three stars which form the Ram's head.
+Below that again is Cetus, the Whale.
+      Due south lies Eridanus, consisting chiefly of small stars, which cover a wide expanse of sky.
+Above is Taurus, recognisable at once by the Pleiades and Aldeboran. Still turning towards the
+left, we see Orion, nearly upright, but with his shoulders slightly thrown back. Immediately below
+Betelgeux (Ibt-al-Jauza, the Giant's Shoulder,) is Canis Major, on his hind feet, and throwing a
+fore-paw towards the Little Hare (a constellation of small stars directly below Orion). Observe the
+leading star of the Dove (a Columbse), directly below a Leporis. Almost due west, and midway
+between the horizon and the point overhead, are the twin stars Castor and Pollux, Castor being
+uppermost. Still higher lies Auriga, the star Capella, always a very conspicuous object, shining very
+brilliantly at this elevation. Canis Minor lies below the feet of The Twins.
+      Observe the small cluster, Prsesepe, or the Beehive (only visible on very clear nights) : it lies now
+almost exactly midway between Castor and the horizon. Further to the left, and near the horizon,
+is the Lion. It is well to notice ' The Sickle ' (the group of stars formed by Regulus, 77, 7, ft, e, and
+two small stars), as this is a well-marked object.
+                                                    b2
+
+22                                           FEBRUARY.
+               HALF-HOUR WITH THE STARS IN FEBRUARY.
+                                              MAP II.
+The Geeat Bear is now midway between the horizon and the point overhead, and towards the north
+east. The ' pointers ' are uppermost, and the pole-star lies towards the left (as shown in the
+map).
+    The Guardians of the Pole are seen below, and towards the right. Immediately below the pole
+lies the Dragon's Head, the body and tail extending towards the right, to a point between the
+pointers and the Guardians of the Pole. Vega is seen just above the horizon, slightly to the left
+of the north point. Further to the left is the upper part of Cygnus, above which is the inconspicuous
+Cepheus. Due north-west, and high above the horizon, is Cassiopeia, the W being now in this
+position ^. Further to the left, and close to the horizon, is the Flying Horse. The square of
+Pegasus stands on a corner (a Pegasi), just above the horizon. The upper corner (Alpherat) of the
+square belongs to Andromeda, still inverted; and above the feet of Andromeda we see Perseus,.
+Algol is now due west.
+      Below Algol, but slightly to the left, is Aries ; and still lower, and further to the left,
+Cetus appears, the figure presented by its principal stars reminding one of the Mantis insect.
+It is now setting. The star Mira may not be visible, as this is a variable, invisible at regular
+intervals for months together.
+      Notice Eridanus setting towards the south-west, and Taurus above ; and then turn to Orion,
+almost due south, standing erect in all his glory, at the greatest elevation he ever attains in our
+latitude.
+      To the left, low down, we see the Greater Dog, Sirius, now shining with his full splendour.
+The dog is still rampant ; indeed he is never seen otherwise in our latitudes.
+      Looking upwards, and somewhat further to the left, almost due south-east we see the Twins,
+their feet resting on the borders of the Milky-Way. Still higher is Auriga, now, in fact, overhead.
+      Below the Twins see the Little Dog.- Below this constellation the stern of the ship Argo is
+ rising into view. But as the part of this constellation which rises above our horizon contains no
+ conspicuous stars, we need not pay much attention to it at this stage of our star-gazing.
+      Somewhat to the east of south-east we see a single conspicuous star—though several small
+ stars are seen in the neighbourhood. This is Cor Hydrse, the Heart of the Sea Serpent. The
+Arabian astronomers gave to this star the name of Alfard, or The Solitary One.
+      Leo lies towards the east, and between the Sickle in Leo and the Lesser Dog we recognise
+Praesepe, and the two small stars on either side, known to the ancients as the Aselli.
+      We have now come round again to the Great Bear. Observe how much larger an extent of
+sky this constellation covers, than is commonly assigned to it by beginners. In its present aspect,
+the constellation reminds the unpoetical observer of one of those figures of a monkey turning over a
+pole which used to amuse our childhood,—the pole being supposed to run vertically through the paws
+ (at the stars \ and t).
+      Below the Bear's tail the head and shoulders of Bootes are rising into view.
+
+                                           THE SKY.
+on Jan 20 at' W o'clock:           on Jan : 3/ at; 9k o'clock;      ow Feb II tils Si o'clock;
+on Jan.. 23 at 9$ o'clock;         on Feb ; -/ at 9 o'clock;        on Feb J5 at 8h o cl^ck.
+on/ Jan . 27 at9\ o'clock ,        on Feb : 7 at 8% o'clock;        ow Feb 19 at 8 o'clock;
+                                        IN TH E EVENINC.
+""For the tuwies of the stars, corresponding to the; abene kticruig, retcr, to the? list al* p. 10.
+                                                                                        Vinton BrooJcsDs.y t Scnl-itk
+
+
+                                                 MAP 3.
+                                            'Southern Konxcn
+                                             THE SICY
+en Feb /3 at W o'clock;             ow Mar . Z      at 9i o'clock;     ow Mar - 13 til Si o clock,
+on Feb -. 22 al 91 o'clock, ;       on- Mar 6      at 9 o'clock;       on/ Mar . 17 at 8k o 'clock,
+crv Feb . 26 at9h o'clock;          on' Mar 3       at 8*o clock ;     ow Mar-. 21 at 8 o'clock;
+                                          IN THE EVENING
+**Jbr the/ names of the/ stars, corresponding tc the/ above/ lettering, reier to the list/ at p. 10.
+                                                                                          Vincent Brooks Illy I Sm> '
+
+
+                                                MARCH.                                              131
+                 HALF-HOUR WITH THE STARS IN MARCH.
+                                              MAP III.
+The Geeat Beae is now approaching the point overhead, but is easily recognised towards the
+north-east. The pointers, as shown, indicate the pole-star towards the left, and considerably
+below them.
+     The Guardians of the Pole now lie on the right of and somewhat below the pole-star, Vega
+shines just above the horizon, immediately below them. Between lies the Dragon's head ; and we
+see the body and tail of the Dragon curving round between the head and the Guardians of the
+Pole.
+     The upper part of Cygnus is now all that can be seen of this constellation, almost due north
+on the horizon. Further to the left, and well raised above the horizon, we see Cassiopeia. Andro
+meda is now approaching the horizon, her head almost touching it towards the north-west. Next
+on the left is Aries, and above Aries is Perseus.
+      Above Perseus is Auriga, Capella being almost due west. Cetus has nearly set, only its head
+being visible above the horizon.
+      Above Eridanus (now nearly set) is Taurus, very favourably situated for observation. The
+Pleiades lie due west, and Aldeboran—the brilliant red star—to their left.
+      Orion is towards the south-west, bending forwards towards the west. Above him, but some
+what to the left, are the Twins, Castor still uppermost.
+      Below the Twins are the two dogs, Canis Major towards the south-south-west, and low down.
+      Alfard (The Solitary One), or Cor Hydrse, as he is called in the map, lies midway between the
+south and the south-east, and is well raised above the horizon. It is interesting to notice how
+blank all this part of the heavens appears—so far, at least, as conspicuous stars are concerned.
+      Towards the south-east is Alkes, the chief star in the Cup ; and we notice the Crow just rising
+into view towards the left.
+      Above, we recognise Leo, the Sickle being now a conspicuous object.
+      Virgo has risen partially into view above the eastern horizon. The cup-shaped group formed
+by the five stars shown in the map was called by the Arabian observers, for reasons not yet explained,
+ ' The Eetreat of the Howling Dog.'
+      Bootes has now risen entirely above the horizon, though as yet in a recumbent position.
+Arcturus is a conspicuous object on the right of this constellation.
+      Below the head and shoulders of Bootes notice the Crown, one star only of which (Alphecca) is
+shown in the map. Doubtless this group of stars originally formed the right arm of Bootes. The
+constellation recently attracted much notice as the region in which a new star (or rather, an irregular
+variable) made its appearance a year or two ago.
+      Hercules is gradually rising into view towards the north-east.
+
+  14    "•                                         APKIL.
+                    HALF-HOUR WITH THE STAES IN APRIL.
+                                                MAP IV.
+ The Great Bear is now easily found, being nearly overhead. The pole lies below the pointers.
+       The Guardians of the Pole are now somewhat higher than the pole towards the right. Below
+ the pole-star is Cepheus, and due west of him is Cassiopeia, the W gradually approaching its
+ natural position. Andromeda's feet are to be seen above the south-western horizon, and towards
+ the left, Aries is setting.
+      Above Aries is Perseus, now well situated for observation. The brilliancy of the Milky Way in
+ this neighbourhood is worth noticing.
+      Due west is the Bull, above which lies Auriga.
+      Orion is now approaching the horizon, and is prone towards his ' western grave ; ' above him
+hang ' the starry Gemini.'
+      Towards the left are the two Dogs. . The Greater Dog is now setting.
+      Alfard (Cor Hydrse), is somewhat to the west of south. Above is the Sickle in Leo, due south,
+and with its handle vertical.
+      The length of Hydra is now nearly raised above the horizon. We may notice in passing that
+the Sea Serpent originally extended along the equator, and we believe that the epoch at which the
+ancient constellations were formed may be more correctly deduced from this correspondence than
+from any other, since few ideas of antiquity are more commonly recognised than that of the equa
+torial (and also oceanic) Serpent. It is strange, by the way, that sea monsters form so large a part
+of the mythology of the ancients, and a fanciful mind might incline to the notion that the ancients
+preserved in their celestial globes the records of sea. creatures once well known but now extinct.
+The reader if he have a taste for fanciful speculations may here refer to Gosse's chapter on the
+' Great Unknown,' in which he argues that the Sea Serpent (despite Professor Owen's arguments
+to the contrary) is a true Dolichodeiros—that is, not a serpent but a paddling long-necked lizard.
+Certainly the Cetus and Hydra of ancient globes might not unreasonably be urged in support of this
+view ; and the Dragon would figure as a respectable pterodactyl.
+      Virgo has now risen, and the brilliant Spica is a conspicuous object towards the south-east.
+Just above the horizon is the star /3 of the Scales.
+      Due east is the Serpent just above the horizon. It must be noticed, however, that a part of this
+ constellation lies on the further side of the as yet unrisen Ophiuchus. Serpens is the only constella
+ tion thus divided.
+      Above Serpens is Bootes, still nearly recumbent. Coma Berenices and Cor Caroli occupy the
+positions severally accorded to them in the map.
+      To the left of Serpens is Hercules, or Engonasin, the Kneeler, supposed by many to represent
+ Adam kneeling on the head of the Serpent, Draco.
+      The Lyra has now nearly risen, in the north-east, immediately beneath the Dragon's head.
+
+                                           teuthern Hbrixin
+                                            THE SKY.
+on. Mar 27 al 10 o'clock;          on/ Jtpr. / at/ 9i o'clock;         on/ dpr. /2 ti& 8\ o'clock;
+on Afar. 21 a./. 94 o'clock;       on dpr. S at' 9 o clock;            on/ Apr 16 at 8h o'clock;
+en, Mar. 28 al/,9^ o'clock;        on Apr. 8 a/, 8% o'clock;         * on/ Apr 2O at 8 o'clock;
+                                         IN THE EVENING
+ *For the, name* of the stars, corresponding to the/ above, lettering, re/er to the/ list. al' p. JO.
+                                                                                          V  l' ;i jotj J ay I S, t» LiUi
+
+
+                                               ctTK fi
+                                             ZHI JOTS
+                                   no A'oj£ ^ ipapofa/fn
+                                   1/,) .vojp j' jo q qfs>¦/fy,o       fO .&>Jg j/    ft) %$ j ,3pop¦
+                                          HI 3H1 M INI ON
+.jjj &t{) s'fiuvu ifljo s,u&fs 6urpuad.nurjj ay Gift ^3L\oqn> ,fhnjvfp] Uffdr 02 vy? Wrl 7D Old
+                                                                                          VBTXlh ^""Jg *»C 1 U°S Wl
+
+
+                                                                                    •
+                                                       MAY.                                         15
+                    HALF-HOUR WITH THE STARS IN MAY.
+                                                   MAP V.
+The Geeat Beae still overhead is found immediately, and the pointers, which have now crossed
+over to the west of the zenith, point downwards to the pole-star.
+      The Guardians of the Pole are now higher than the pole, towards the right.
+      Below the pole, Cepheus and Cassiopeia are seen, the former on the right. Andromeda has
+nearly disappeared ; and Perseus has passed the north-west, and is approaching the horizon. The
+Pleiades are just setting, almost due north-west ; and above is Auriga.
+      In the west we see Betelgeux, the sole star belonging to Orion now visible. Above, and due
+west, are the twin-stars Castor and Pollux. We have, in fact, the configuration described by
+Tennyson, speaking of the season we are considering :—
+                                                     ' It fell on a time of year
+                               When the shining daffodil dies, and the Charioteer
+                                And starry Gemini hang like glorious crowns
+                                Over Orion's grave, low down in the west.'
+Canis Major has set, but the Lesser Dog is still above the horizon, to the left of and below
+the Twins.
+      Cor Hydrae (The Solitary One) is almost exactly towards the south-west, and above is Leo.
+      Due south, the small quadrangle of Corvus is seen, above which is ' The Eetreat of the Howling
+Dog,' Spica shining conspicuously on the left, towards the south-south-east.
+      Libra has risen into view, and somewhat to the east of south-east we see the first indications of
+the interesting southern constellation Scorpio.
+      The vertical row of conspicuous stars, formed by a part of Ophiuchus and the body of Serpens, is
+well worth noticing. Above it is Bootes ; to the left of which, and lower down, we see Hercules,
+inverted. His head is marked by the upper alpha, the lower representing the head of Ophiuchus,
+the Serpent-holder—typical, some suppose, of the Messiah. The feet of the kneeling Hercules are
+on the head of Draco, whose body and tail extend upwards, between the Guardians of the Pole and
+the Greater Bear. It is impossible not to recognise, from the configuration of this constellation as
+now seen, that the ancients looked on the stars which form the Lesser Bear as forming a wing of
+Draco.
+      Beneath the Dragon's head we see the Lyre. The Swan has now risen above the horizon, and
+ the cross belonging to this constellation is seen in an almost horizontal position. The brilliancy of
+the Milky Way at this part of its extent is well worth noticing. In the space between the stars a,
+ /S, and y Cygni, there is a distinctly-marked black gap in the Milky Way, which has been termed
+ the Northern Coalsack. The extension of the Milky Way towards Cepheus should also be noticed.
+
+16                                                      JUNE.
+                    HALF-HOUR WITH THE STARS IN JUNE.
+                                                 MAP VI.
+The last stab of the Great Bear's tail is now just passing the point overhead. The pointers are
+lowermost, and the pole-star is below, towards the right.
+      The Guardians of the Pole are above the pole-star a little towards the right. Below them is
+Cassiopeia, the W being now almost in the proper position of the letter. To the left is Perseus,
+Algol being quite close to the horizon. Further round to the left we see Capella and the other stars
+ of Auriga low down towards the horizon. Not much higher are the twin stars Castor and Pollux,
+ Castor to the left, the feet of the twins resting on the horizon. It is interesting to compare the
+ splendour of the sky near the horizon, from Gemini in the west-north-west, to Cassiopeia in the
+ north, with the comparative blankness of the part of the sky immediately above these constel
+lations.
+      Prsesepe is almost due west, about as high as Castor. Leo has come round so far towards the
+west that the tip of the Sickle just reaches that point of the compass. Below Regulus is Alfard, now
+near setting.
+      Virgo is now at her highest, Spica shining resplendently a little towards the west of south.
+      Below Virgo notice Corvus and Crater, two of the neatest small constellations in the heavens.
+      Due south, just above the horizon, is the head of the southern constellation the Centaur. Above
+Virgo, and almost due south, we see Bootes, now nearly upright, and presenting a fine figure, as with
+uplifted arm (the stars belonging to the Crown) he chases Ursa Major past the zenith.
+      Returning to the neighbourhood of the horizon observe the brilliant red star Antares, or Cor
+Scorpionis, lately risen above the south-eastern horizon. Due south-east we see a fine line of bril
+liant stars formed by J, e, and 8 Ophiuchi, and e, a, and 8 Serpentis. These stars, with r\ Ophi-
+uchi, and the stars y and fi Serpentis, form a figure much resembling a sabre, the cross-handle
+being formed by two stars not shown in the map. Nearly the whole of the large constellation Ophi-
+uchus (the reader will remember how Milton says of a comet, that it
+                                    ' Fired the length of Ophiuchus large ')
+has now risen above the horizon. It requires some imagination to recognise in it the figure of a
+man holding a serpent ; but this is not the only instance in which the stars of a Constellation bear
+little resemblance to the figure from which the constellation is named.
+      Hercules is now nearly due east and high above the horizon. Towards the same quarter, but
+quite close to the horizon, Aquila is coming into view, the brilliant Altair scintillating finely. Lyra
+is above, Vega being almost exactly midway between the horizon and the point overhead.
+      The leading star of Cygnus is towards the north-east, the length of the cross being still nearly
+horizontal. Between Cygnus and the point overhead, is the head of the Dragon, the body and tail
+winding off towards the left and upwards, above the Guardians of the Pole.
+      On the dates named in the third column under this map the stars cannot be seen, as it is not
+yet dark. Therefore use Map VII. two hours later. For instance, on June 21, use map VII. at ten
+o'clock, and similarly for other days at the end of June.
+
+                                             ¦Soitdtern Hmxi"
+                                               THE SKY.
+on Mzr 2/    at 10 o 'deck ;        on (7ttties 7 at/ ,% r clock ;    on/ >JUne/73 als 8h o 'clock,
+on Mai ZS    ft/ ,9i o Hock .       on tJUriey S at' ft o'clock:      on i/usw/7 at/ 8k o'clock,
+on Mar £8     at 9\ c 'clock;       on i/iiTie. & at S\ o'clock;      on. Juste 2/ at 8 c 'clock;
+                                           IN THE EVENI NG
+"J.br the name,? of the star,?, corresponding to the, above lettering, reler to the list/ al p . tO.
+                                                                                         YinreU Brooks I-ty t Son Lith
+                                                                                                                     .*
+
+
+                                             '^/Uhern Hcn~cn
+                                              THE SKY.
+« June/2/ af 10 o'clock;              on/ July J at/ Hie clock;      on July 14 of 8\ o'clock,
+<*, June25 a/ tH o'clock.             otv July 7 at 9 o'clock;       oro Judy 7S at/ 8k o 'clock;
+« June/W at$k o'clock,;               on, July 10 at 8% o'clock;     ow July 22 al 8 c 'clock;
+                                           IN THE E.VLNINC
+  ¦fir (he, ruurus of the, stars, corresponding to the abwe leUcruig, relcr, to the list/ al n.10.
+                                                                                         Yutcal, 3rooks 3»j I S ju Uft
+
+
+                                                   JULT.                                            17
+                    HALF-HOUR WITH THE STARS IN JULY.
+                                                MAP VII
+The Geeat Beae is now descending towards the north-west. The pointers lie nearly halfway
+between the point overhead and the horizon, towards the north-west. Thus the pole-star lies to the
+right of the pointers.
+       The Guardians of the Pole have passed above the pole towards the left. Below the pole, and
+close to the horizon, we see Perseus on the right, and Auriga on the left. Capella is scintillating
+brilliantly, as are Castor and Pollux, which are now setting near the north-west, Pollux lowest, and
+on the left.
+       Prsesepe is nearly set, and will probably not be visible in the thick air so low down.
+     . Leo is approaching the horizon, the Sickle being inclined forwards. Above /S Leonis notice the
+Hair of Berenice, halfway between the horizon and the point overhead, and forming an interesting
+object at this elevation.
+       Bootes stands now in the north-west, high up above the horizon. Below Arcturus is Spica,
+and lower still, towards the right, the Crow and Cup are setting.
+       The constellation Scorpio forms a magnificent object in the south. The stars which are
+assigned to this constellation in maps form but a portion of the original constellation, and it is not
+difficult to recognise in the arrangement of the stars now lying towards the south a resemblance to
+the figure of a scorpion with extended claws.
+       Above Scorpio we see the group of stars compared to a sabre, now no longer vertical, but
+inclined forwards. ' Ophiuchus large ' is fully raised, and reaches from the horizon more than half
+way to the point overhead, and from the south to the south-east. Below his head (a) we see
+ Sagittarius just rising above the horizon ; and above Ophiuchus, Hercules extends right up to the
+point overhead.
+       The three bright stars in the body of Aquila are now midway between south-east and east ; the
+uppermost is 7, the lowest /3, and the middle star is Altair. Above, towards the left, is Lyra, Vega
+being now raised far towards the point overhead. Below Vega is the head of Cygnus, and the cross
+ of Cygnus is now in a position exactly horizontal, and also exactly midway between the point over
+head and the horizon ; in other words, each of the stars a, 7, and /9 Cygni now has an elevation
+ of forty-five degrees above the horizon.
+       Below Cygnus, Pegasus is rising into view, three stars of the square being visible, and the nose
+ of the horse (s) due east. Andromeda has just risen above the north-eastern horizon. Above her
+ feet we see Cassiopeia, the W still in its natural position.
+       Draco forms a curve round and above the Guardians of the Pole, his head being to the
+ east, and close to the point overhead.
+       On the dates mentioned in the last column under this map it will be better to use Map VIII.,
+ two hours later.
+                                                       c
+
+18                                                 AUGUST.
+                 HALF-HOUR WITH THE STARS IN AUGUST.
+                                                MAP VIII.
+ The Geeat Beae is now in the north-west and midway between the point overhead and the horizon,
+ the pole to the right of the pointers.                                            . .
+      The Guardians of the Pole have swung round above the pole-star towards the north-north-west.
+ Below the pole is the head of the Charioteer, Capella still low down towards the right of the north
+ point. Above the Lesser Bear is the body of Draco. His head is almost exactly overhead.
+      Below the Great Bear, and somewhat towards the left, Leo is setting, only a part of the Sickle
+ being visible. Coma Berenices lies immediately above the tip of the Lion's tail (/S), and above
+ Coma again is Cor Caroli and the poor constellation the Hunting Dogs, of which Cor Caroli is the
+ leading brilliant.
+      Virgo is setting, ' The Retreat of the Howling Dog ' having already lost one of its stars. To
+the left Spica is scintillating brilliantly, close to the horizon in the west-south-west.
+      Bootes is now midway between the horizon and the point overhead, and inclining forwards, his
+head and shoulders due west, his feet above Spica.
+      In the south-west is Libra, close to the horizon. Above is Serpens, reaching to a point midway
+between the horizon and the point overhead. Between the head of the Serpent (7, /3) and the
+zenith we see Hercules, reaching round from the south to the west, and still inverted. In fact,
+Hercules is never seen upright in our latitudes. This kneeling figure must have been conceived by
+astronomers living in other latitudes and at a time when the pole was very differently situated.
+     Ophiuchus has now passed the south towards south-south west ; and Antares with the other
+stars of Scorpio lie towards the same quarter low down towards the horizon. It is interesting to
+notice the portion of the Milky Way now brought into view towards the south. We see here the
+commencement of that part of the Milky Way which by its superior brilliancy as seen in southern
+latitudes, indicates the greater proximity of the galaxy in that direction. It is also interesting to
+notice how singularly the two branches of the Milky Way vary in splendour along the southern half
+of the semicircle now above the horizon. For in Cygnus the upper branch is much the brightest,
+yet this branch vanishes altogether away in Ophiuchus. On the other hand the lower branch,
+faint in Cygnus, becomes very bright in Aquila and Sagittarius.
+     Lyra is high up towards the point overhead, the stars /3 and 7 forming a pendent to the
+brilliant Vega. Below them, towards the south-east, and about half-way between the horizon and
+the point overhead, is Altair, 7 and /8 Aquila? lying almost in a vertical line, one above, the other
+below, Altair. Low down towards the horizon are the zodiacal constellations Sagittarius (extending
+from south to south-south-east), Capricornus (extending past the south-eastern quarter) ; and
+Aquarius, reaching nearly to the east. It is, indeed, noteworthy that from the north-west right
+round through south to the north-east, the horizon is occupied by zodiacal constellations, no less
+than eight of which are thus situated —though Pisces, having no conspicuous stars, is not marked-in
+in Map Vin.
+     Cygnus is high up towards the east, and below Arided is the square of Pegasus. The left-hand
+star of the square is Alpherat, and Andromeda lies in a nearly horizontal position, her feet being
+towards the north-east. Above these is Cassiopeia, the right-hand side of the W beginning to be
+the highest. Below, and close to the horizon, is Perseus.
+
+                                         MAP 8.
+                                      Southern ttcrixcn
+                                        THE SKY
+m July 22 at IV o'clock;       en Aug 3      at Ok o'clock;     on Aug. J5 Ut Sh o clock;
+m Juty Z6 at 9$ o'clock, ;     on Aug. 7     at 0 o'clock       on. Aug: 79 at Sh o clock,
+en July 30 at/9h o'clock,;     on Ana It     at 8% o'clock;     on Aiig 23 at 6 o'clock,
+                                    'in the ev eni no
+"Ibtfke name? of Uw stars, corresponding to the above lelteruig, refer to th* list itl p 10
+                                                                                  Vincent Brooks D»; k S¦o I
+                                                                                                        -J
+
+
+
+                                          Southern ttenxcn
+                                           THE SKY.
+orv ^uy £J cot W o'clock;         orv Sep . 7 at/ 9i o clock ;      orv Sep. 75 at. 8$ o 'clock,
+orv Jus/. 27 at B$ o'clock,;      orv Sep. 8 at 9 o'clock;          orv Sep. 7$ rib 8k o'clock
+orv slnq. J/ at/Si o'clock,       orv Sep, 12 at'/St o'clock;       orv Sep. 23 at/ 8 o'clock-
+                                        \H THE EVE.NINC
+"Fcr the/ nanves of the stem, corresponding to the/ above lettering, reter, to the/ Ustt al p. 10.
+                                                                                        '*!;. ent Brooks Day t 5
+
+                                                 SEPTEMBER                                             19
+                 HALF-HOUR WITH THE STARS IN SEPTEMBER.
+                                                    MAP IX.
+  The Gbeat Beae is now passing towards the north, and getting low down. The pointers are to the
+jnSght of the seven stars, and the pole-star lies above them and towards the right.
+       The Guardians of the Pole are to the left of, and scarcely higher than, the pole-star. The
+  Dragon passes between the two Bears towards the west, his head being still high above the horizon.
+  Coma Berenices is setting between north-west and west-north-west. Bootes has passed the west,
+  and forms a fine figure above that part of the horizon. The Northern Crown, with the brilliant
+  Alphecca, is due west, about midway between the horizon and the point overhead.
+       Above the Crown are the feet of Hercules. His head and shoulders are to the left of the Crown,
+  wd at about the same height above the horizon. The Serpent lies between the shoulders of Her
+  cules and the horizon. On the left is ' Ophiuchus large ' towards the south-west, and extending from
+  the horizon halfway to the point overhead. The brilliant Vega lies towards the same quarter, but
+  moch higher up.
+       Aquila is due south, Altair being about midway between the horizon and the point overhead.
+  Close to the horizon, and extending from south-south-west to south, is Sagittarius. Next to him on
+  the left is Capricornus, and next to that again is Aquarius, now covering a wide range of sky between
+  Capricornus and Pegasus. In the zenith is Cygnus, the upright and cross-rod of the cross being
+  now about equally inclined to the horizon. The square of Pegasus has passed the east, the left-hand
+  star being still Alpherat, and Andromeda still in a horizontal position. Cassiopeia is in the north
+  east, and raised somewhat more than halfway from the horizon towards the point overhead.
+       Below Andromeda, Aries has fully risen ; and towards the north-east, low down, we see the
+  Pleiades again. Between them and Cassiopeia lies Perseus. It is well to notice this constellation
+  while in its present position, and also the richness of the background of milky light in this neigh
+   bourhood. The whole of this part of the heavens is full of beauty, and contrasts strangely with the
+   barren region close by, between the north point of the horizon and Cassiopeia.
+        Auriga is rising above the north-north-east horizon, and Capella is beginning to scintillate less
+   brilliantly as it rises above the denser strata of the atmosphere.
+                                                          c 2
+
+20                                               OCTOBER
+                  HALF-HOUR WITH THE STAES LN OCTOBER.
+                                                 MAP X.
+The Gbeat Beak is low down towards the north-north-west ; the pole-star lying above and very-
+ little to the right of the pointers.
+       The Guardians of the Pole are now below the pole-star on the left, and almost exactly midway
+ between the horizon and the point overhead. The Dragon passes between the two Bears, and round
+ to the left of the Guardians of the Pole. His head is towards the west-north-west, high up above
+ the horizon.
+       Cor Caroli is approaching the horizon, and Bootes is already half set. So also is Serpens in the
+ west. But Corona is still well raised above the west-north-west horizon. Hercules is in the west,
+ but extends over a wide range from side to side. Vega is due west, and high above the horizon, the
+ stars /9 and 7 lying to the left at about the same height. Also at about the same height is the
+ star /9 of the Swan, and the cross of Cygnus is now upright again, Arided lying near the point
+ overhead.
+        Altair is in the south-west, raised somewhat less than halfway from the horizon towards the
+  point overhead. Below Aquila is Sagittarius. Next, to the left and somewhat higher, is Capri-
+ cornus ; and, next, Aquarius in the south.
+        A noted star, Fomalhaut, the most southerly first-magnitude star ever seen in this countrv, is
+  now visible towards the east of south, and very low down. It is the chief star of the Southern Fish,
+  a constellation not to be confounded with the southernmost of the Fishes.
+        The square of Pegasus is towards the south-east, raised high above the horizon. Alpherat is
+  still the most easterly star of the square, and Andromeda is still horizontal, though now well raised
+  above the eastern horizon.
+        The sea-monster, Cetus, covers a wide range of the sky, low down towards the east-south
+  eastern horizon. The limits of the constellation, indeed, as defined by astronomers, extend from the
+  east to the south-south-east.
+        Aries is in the east, about halfway between Andromeda and the horizon.
+         Taurus has now risen in the east-north-east, Aldeboran, the brightest red star in the heavens,
+  scintillating brilliantly low down towards the horizon.
+         Above the head and horns of Taurus, is Perseus, and immediately above Perseus, raised three-
+  quarters of the way from the horizon towards the point overhead, is Cassiopeia, the W now almost
+   on end, and having the points towards the right.
+         Auriga has now risen in the north-east, Capella being almost exactly in that quarter, and raised
+   somewhat more than one-fourth of the way towards the point overhead.
+         Castor is just rising between the north-east and north-north-east.
+
+                                           MAP 10
+                                        Southern ITorixrn
+                                          THE SKY.
+on Sep 23 at 10 o clock ;        on Oct 4      at/ 9h o'clock;     on Oct 15 UV 8\ o clock,
+on Sep 26 at Si o'clock;          on Oct/ S    at' 9 o'clock:      on Oct 19 tit Sh o'clock,
+m Sep :3C at/9k o'clock-          on Oct. II   at 8% o'clock;      en Oct/ 23 at H o 'clock ,
+                                       IN THE EVEN I NC
+""Fir the names. of the stars corresponding tc the above lettering, refir. to the list at ft 1C .
+                                                                                       Vin.¦i*rt
+                                                                                                 r
+
+
+
+                                               Outturn Btrhin
+                                                THE S£Y
+ ow Oct* 23    alW o clock ;         ow jtfi'v. J    at/ 9i c clock /  on/ M/v. 74. at? 8k o 'clock,
+ on Oct 26     alSi o'clock.         ow M>y. 7       at 8 o'clock;     on/ JVbv: 78 at 8k c 'clock,
+ on Oct?: 30   at/9k o'clock;        on, JVbr. 70    at 8% o 'clock ;  owJtfov. 2Z at/ 8 o'clock,
+                                             IK TH E EVENINC
+**mFcr the/ names of the/ stars, corresponding to the; above lettering, reter to the, list/ al, p. 10.
+                                                                                           Vincent Brooks .Da.) I 5« Wl
+
+                                                 NOVEMBER.                                             21
+               HALF-HOUR WITH THE STARS LN NOVEMBER.
+                                                MAP XL
+The Great Bear is now due north, and at its lowest ; the pole-star lying above, and somewhat to
+to the left of, the pointers.
+     The Guardians of the Pole are below and to the left of the pole-star, and immediately above
+the last star of the Great Bear's tail.
+      The head of Draco has now come to the north-west, and is not nearly so high above the
+horizon as it was a month ago.
+      Due north-west, and almost on the horizon, is Alphecca, the other stars of the Crown being also
+very close to the horizon. Between Alphecca and the Great Bear the head and shoulders of Bootes
+are still to be seen above the horizon.
+     In the west-north-west, close to the horizon, are the heads of the two giant constellation-
+figures, Hercules and Ophiuchus. The left-hand and brighter a marks the place of the head of the
+Serpent-bearer, who is now passing below the horizon. The whole of Hercules, on the other hand,
+is still above the horizon, and, as usual, inverted. Above is Lyra; and Cygnus now occupies a
+conspicuous position in the west, midway between the horizon and the point overhead, the cross
+being still nearly vertical.
+     Aquila, the Eagle, is approaching the western horizon, Altair being in the west-south-west,
+and raised almost exactly one-fourth of the way towards the point overhead. Above Altair, and
+towards the left, is an interesting little constellation not marked in the map—Delphinus. It will be
+recognised at once, though consisting only of small stars, by the resemblance it presents to the
+figure of a dolphin leaping from the sea.
+      Capricornus is in the south-west, low down ; and next to it is Aquarius, covering a wide range
+of the sky, and reaching almost to the south.
+      Below is Fomalhaut, nearing the south-south-west horizon.
+      The square of Pegasus is now at its highest, the left-hand side of the square vertical, the highest
+star on that side being Alpherat. Andromeda is still horizontal,—in fact, it is a peculiarity of this
+constellation that throughout its rise, from near the horizon to near the point overhead, the star
+Alpherat is always very nearly on the same level with a portion of the line joining the two stars 7
+and 51, which mark the feet of Andromeda. This is true from the epoch indicated in Map VII.
+to that indicated in Map XI., or through one-third part of the constellation's course round the pole.
+      Cetus is now well raised above the south-south-east horizon. The star a (Menkar) lies to
+the east of south-east. Immediately above this star is the head of Aries ; below it is Eridanus, now
+rising in the south-east.
+      Orion also is rising, the three stars forming his belt almost upright towards the east. Above
+them is Aldeboran, and above that star are the Pleiades. Near the point overhead is Cassiopeia .
+ below Cassiopeia, and somewhat to the right, is Perseus ; below Perseus, and to the left, is Auriga,
+ with the brilliant Capella ; and below Auriga the twin-stars Castor and Pollux have risen, Castor
+ vertically above Pollux.
+
+22                                                  DECEMBER.
+              HALF-HOUR WITH THE STARS IN DECEMBER.
+                                                    MAP XII.
+ The tip of the Great Bear's tail lies almost due north, and low down. The pointers are towards
+the north-north-east, and the pole-star is above, and towards the left.
+      The Guardians of the Pole hang below the pole-star, slightly towards the left. Draco hangs
+below the Lesser Bear, extending around from right to left, where his body bends downwards again.
+The head of Draco lies between north-west and north-north-west, raised almost exactly one-fourth
+of the way from the horizon towards the point overhead. Towards the left, slightly lower, is Vega,
+the companion stars /8 and 7 lying on the left.
+      Cygnus is in the west-north-west, the cross again upright, and Arided raised somewhat
+less than halfway from the horizon towards the point overhead. Above, very near the point
+overhead, is Cassiopeia.
+      Low down, and somewhat to the right of the western point of the horizon, is Altair, with his
+companion stars /S and 7, the former on his left, the latter on his right.
+      The square of Pegasus is still high above the horizon, towards the west-south-west. The
+highest star of the square is Alpherat, and Andromeda now extends from this point to the point
+ overhead, close to which are both her feet.
+      Aquarius is setting in the west-south-west. Cetus is due south, well raised above the horizon.
+ The space below Cetus, quite bare of conspicuous stars, belongs to the southern constellations
+ Sculptor and Fornax. Above Cetus is Aries, the star a due south, and raised nearly three-fourths
+ of the way from the horizon towards the point overhead.
+      Above the south-south-east horizon is Eridanus, covering a large space of the sky. Orion has
+ now risen well above the South-eastern horizon somewhat easterly. Above him is Taurus, the
+ Pleiades now shining very conspicuously.
+      Near the point overhead is Perseus, the star a being towards the east, and Algol towards the
+ south-east.
+      Below Perseus, somewhat to the left, is Auriga ; and below the brilliant Capella are to be seen
+ the twin-stars Castor and Pollux, the constellation Gemini being now in a horizontal position, the
+ feet of the twins (ji and 7) resting on the Milky Way. Procyon has just risen above the eastern
+ horizon.
+      Towards the north-east the sky is almost blank. But low down may be seen two stars belonging
+ to the Sickle in Leo, now rising above the north-eastern horizon.
+                                             LO!TDOW: PaiimCD BY
+                                  6FOTTISTCOOPH AND CO., NEW.STBEBT SQUIBB
+                                            AXD rULUXXHT 6TEEET
+
+                                                  .ML .A.jr ±£.
+                                              UMUO&'UJtifiiqg
+                                             southern. Hcrixcn
+                                              THE SKY.
+on Nov 22 at' 10 o'clock;           on, JJec. 3      at/ 9i c clock ; on/J)e&.. 74- at/ 8\ o 'clock,
+on Nov: 2S at 9$ o'clock,           on, Dec/: 7      at' 9 o'clock:   on?Dec/. 77 at 8k o'clock;
+on My.. 29 at/9\ o'clock;           orv Dec/: 10     at 8% o clock ;  on/Dec 27 at/ 8 c 'clock;
+                                           IM THE E.VENIHC
+ "For the, names of the. stars, corresponding to tfw above; lettering, reter, to the/ list/ at/ p . 10.
+                                                                                           Vincent Brooks D«* l&pr/CXJ \
+                                                                                                           cent Brooks olixnfL.fi
+                                                                                                 J"
+
+
+
+
+
+
+^
+*
+  1
+

@@ -1,0 +1,86 @@
+---
+title: "00-RR-Preparation"
+author: "Anoff Nicholas Cobblah"
+date: "July 30, 2018"
+output: html_document
+    number_sections: yes
+    toc: true
+    toc_depth: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+## Preparation
+
+### Experimental Question
+R can be a powerful tool for better understanding texts. It isn't always necessary to have a fully testable hypothesis in mind; visualizing texts can be a powerful tool for discovery, especially when you are willing to have fun, exploring the many ways in which one can customize your analysis.  On the other hand, because the data can be easily manipulated, one can easily fall into the trap of thinking they observe a feature in the text and then manipulating the text to draw out that feature.  Fishing for information that supports a theory one already holds is a real problem in the field labelled by scholars such as those in the Stanford Literary Lab as "computational criticism."
+
+There are several principles that can be used to approach objective experimentation in automated text analysis, as discussed in Justin Grimmer and Brandon M. Stewart's "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts" (**Political Analysis**, 2013). Unlike the social sciences, however, the humanities more generally proceed not through testable and reproducable experiments, but through the development of *ideas*.  **Recreational computational criticism therefore asks only that you choose one question that your analysis will answer.  Questions such as: "Does Dickens's Bleak House include more masculine or feminine pronouns?"; "What topics are central to the Sherlock Holmes canon?"; "Do novel titles become longer or shorter over the course of the nineteenth-century?" New features may become observable while pursuing this analysis. And it is up to the critic to theorize about what this newly visualized feature means.**
+
+#### Why R?
+R isn't the only tool one can use for visualizing texts. However, I have found that R computational methods shine when you have texts that are either too long to read quickly, or too many texts to read quickly. They are also useful when you have a specific methodology in mind or prioritize customizability in the data mining or the visualization.  For quick visualizations of things like word clouds, Voyant (https://voyant-tools.org) is probably a better. 
+
+### Downloading R
+The first step in using this methodology is obviously to download R.  This can be done here (https://www.r-project.org). Users should also download RStudio, an environment which will make running the code easier. (If you are reading this in R/RStudio, then congratulations on already having started!)
+
+### Setting Directory
+The first step in analyzing your data is choosing a workspace. **I recommend creating a new folder for each project.** This folder will be your *working directory.* The working directory in R is generally set via the "setwd()" command. However, here, we're going to be working within R Markdown Files (.Rmd). R Markdowns rely on a package called knitr, which generally requires the R Markdown to be stored in the location of your working directory. So I would recommend creating a new folder, and then downloading these R Markdown Files to the folder where you want to work. For example, you might create a folder called "data" on your computer desktop, in which case your working directory would be something like "C:/Users/Nick/Desktop/data". **You can check that your working directory is indeed in the right place by using the "getwd()" function below.** 
+
+```{r directory, root.dir=TRUE, eval=FALSE}
+getwd()
+```
+
+### Downloading Packages
+
+The next step is to load in the packages that will be required. My methodology makes use of several packages, depending on what is required for the task. Rather than loading the libraries for each script, I generally find it more useful to install and initialize all the packages I will be using at once.
+
+Packages are initially loaded with the "install.packages()" function.  **HOWEVER, THIS STEP ONLY HAS TO BE COMPLETED ONCE.**
+
+"ggmpap" is a package for visualizing location data.
+
+"ggplot2" is a package for data visualizations.  More information can be found here (https://cran.r-project.org/web/packages/ggplot2/index.html).
+
+"pdftools" is a package for reading pdfs. In the past, you had to download a separate pdf reader, and it was a real pain. You, reader, are living in a golden age. Information on the package can be found here (https://cran.r-project.org/web/packages/pdftools/pdftools.pdf).
+
+"plotly" is a package for creating interactive plots.
+
+"quanteda" is a package by Ken Benoit for the quantitative analysis of texts.  More information can be found here (https://cran.r-project.org/web/packages/quanteda/quanteda.pdf). **quanteda** has a great vignette to help you get started ([here](https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html)).  There are also exercises available [here](http://kenbenoit.net/quantitative-text-analysis-tcd-2016/).
+
+"readr" is a package for reading in certain types of data. More information can be found here (https://cran.r-project.org/web/packages/readr/readr.pdf).
+
+"SnowballC" is a package for stemming words (lemmatizing words, or basically cutting the ends off words as a way of lowering the dimensions of the data.  For instance, "working","worked", and "works" all become "work").
+
+"tm" is a simple package for text mining. An introduction to the package can be found here (https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf).
+
+"tokenizers" is a package which turns a text into a character vector.  An introduction to the package can be found here (https://cran.r-project.org/web/packages/tokenizers/vignettes/introduction-to-tokenizers.html).
+
+```{r installations, warning=FALSE, eval=FALSE}
+install.packages("ggplot2")
+install.packages("pdftools")
+install.packages("plotly")
+install.packages("readr")
+install.packages("SnowballC")
+install.packages("tokenizers")
+
+```
+
+
+# A Note About Citation
+Most of the software packages are written by academics.  Reliable and easy-to-use software is difficult to make.  If you use these packages in your published work: *please* cite them.  In R you can even see how the author would like to be cited (and get a bibtex entry).
+```{r Citations, eval=FALSE}
+citation("ggplot2")
+citation("pdftools")
+citation("plotly")
+citation("readr")
+citation("SnowballC")
+citation("tokenizers")
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************

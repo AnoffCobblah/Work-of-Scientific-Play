@@ -1,0 +1,1880 @@
+Inductive
+ Elementary            Physical Science
+                                             Bailc
+        D. C. HEATH        & CO., Publishers
+               BOSTON, NEW YORK. CHICAGO
+
+
+                Experimental               Science Series
+                                          i.
+                        INDUCTIVE
+ELEMENTARY PHYSICAL SCIENCE
+   INEXPENSIVE APPARATUS, AND WITHOUT
+              LABORATORY                        EQUIPMENT
+                                          BY
+                          F. H. BAILEY,               A.M.
+        Author of "Primary Phenomenal Astronomy," Inventor of TnR "Astral
+             Lantern, or Panorama of thr Hiatus," thb "Cosmosphere"
+                      "100 ix 1 Physical Science Apparatus," etc.
+                                BOSTON,        U.S.A.
+            D.    C.    HEATH          &    CO.,    PUBLISHERS
+                                       1895
+
+-a • ; /
+      ,
+                       Ul*y^
+                                  &Cf'/- T&f-W
+                     COPTBIGHT, 1895,
+                By D. C. HEatH & CO.
+                            —
+        J. S. Cushing & Co. Berwick & Smith.
+                 Norwood, Mass., U.S.A.
+
+                                               PREFACE.
+     The    course     in Elementary       Physical  Science, of which these sheets form the first
+instalment, is the outgrowth            of various experiments made first in the public schools of
+Michigan,      later in Dr. Felix Adler's Workingmen's              School in New York City, and
+finally, during the past four years, in the private school of Mrs. Quincy A. Shaw in
+Boston — a school founded by Mrs. Shaw, the daughter of the great naturalist, Prof.
+Louis Agassiz, for         the    purpose    of developing    methods    of nature    study   that   will
+secure    to the young student           the  best preparation    for holding  through life intimate
+converse     with nature.
+     The endless source of happiness            which this gives is a heritage that Mrs. Shaw has
+believed     will   come always to        all students who     are introduced   to  the study     of the
+earth by the natural method.              The author's educational views were so fully in accord
+with her own, that        she gave him perfect liberty in laying out the work in the Physical
+Science branches of nature study for pupils from twelve to eighteen years of age.
+The results reached          have    been such that many of the best educators of Boston             and
+vicinity    have    recommended and urged that              the   course be given    a wider    field of
+usefulness.
+     While this work       has been largely the result of class-room        experiment, indebtedness
+is freely acknowledged           to various sources,    especially to the excellent little manual on
+ " Home-made        Apparatus,"      by Prof. John F. Woodhull, of the New York Teachers'
+ College.
+     For any testimony that           may be wished in regard to the merit of the           course,  the
+following     are referred to      :  Mrs. Quincy     A. Shaw, Boston, Mass.      ; Charles    F. King,
+ Head Master of the Dearborn School, and Superintendent                    of the National      Summer
+School   ; W. A. Mowry, Superintendent              of Salem Schools, and of Martha's Vineyard
+ Summer School ; S. T. Dutton, Superintendent of Brookline Schools ; Larkin Dunton,
+ Head    Master      of Boston Normal          School ;  A. E. Winship,     Editor of The Journal
+of Education      ;   and   Frank A. Hill, Secretary of Massachusetts Board of Education.
+                                                                                          F. H. B.
+     6 Marlboro Street, Boston,        Mass.
+                 January,   1895.
+
+                                    TO     THE TEACHER.
+    No previous knowledge of physics            is absolutely necessary,        but a clear conception of
+the   object aimed at is       imperative, in order that the            work    may   be  done in a     truly
+scientific manner, and the highest success attained.                   That object is not primarily to
+give the pupil a few physical facts out of the great abundance of truth,                   a few essentials
+of which is all that is possible in any course, but to cultivate his powers of observation
+and independent thought.            Every young child       possesses these powers and is eager             to
+use them, but a system exclusively           of book-education tends to destroy them.             Some one
+has   truthfully    said   — "No injustice would       be   done     to a teacher   if his skill and      the
+educative value of his lessons were measured              by his success in making children           reason
+                                                            "      and we may add that for the best
+out conclusions from observed            or stated facts       ;
+discipline    those    facts should be observed, not stated.             That education is of the most
+value in every walk of life which not only enables its possessor to reason correctly upon
+facts   possessed,    but which gives him the power of keen and accurate                    observation by
+means     of which to collect the facts for himself, and prevent imposition from others.
+Seeing is not       so   simple an act    as  many suppose.           Every scientist knows that it          is
+one    thing to turn the eyes towards an object, but quite another thing to                     see  what is
+there.     Every one's observational powers need cultivating, and "Observation                    Lessons"
+are of value for this purpose, but doubly valuable when                    so arranged as to become an
+incentive to logical reasoning.
+     In planning this        course   these two     objects    have      been   kept in view,     and they
+should     be  continually    before the teacher in charge.           If  the course   is properly taught,
+pupils who have been in the habit of learning, or trying to learn, without                     independent
+thought, find that it is impossible to do so in this work.                     They  are compelled to use
+their eyes in collecting facts, to put these facts together, and to draw conclusions from
+them.       These processes      at  their command,       they are        then   prepared for the       great
+school of life, but without having acquired these processes no amount of accumulated
+facts are of much value.         Teachers who have never tried this method will be astonished
+by the ease with which children adopt it.           At  first,   if their previous instruction      has been
+entirely by the memory method, this one seems to fail completely.                      The pupils can use
+neither hands, eyes, nor minds.            They cannot experiment successfully nor see more
+
+than a small part of what happens when the experiment is done, to say nothing of
+thinking out what it all         means.       But    I  have not yet had a pupil whose habit of lean
+ing upon book or teacher          was so strong that           it did not give way, within a brief space
+of time, and let some       degree of self-activity show itself.              In training the pupil to self-
+reliance, it is at the      very beginning that the skilful teacher has the opportunity of
+doing    his best work.       I  have     tried several methods; one                extreme      is   to  assist   the
+pupils in every step at the beginning, and wean                     them     gradually     ;  the other, to throw
+them entirely upon their own resources                from the very beginning.               Of   the two extreme
+methods the latter is the better, provided the pupil can                        be   prevented from becoming
+discouraged before he gets        a  start.
+     The particular method in which you conduct your class will, of course, depend upon
+circumstances.      Only general directions            can be given.        Though you          have     no teaching
+to do, that being done by Nature, the best of all teachers,                    nevertheless you should teach
+(if  we may use the paradox) by the most successful method                         — that of example.            Be a
+student of nature with your class, and acknowledge yourself such.                              Have a set of the
+apparatus, try the experiments, and write your inferences just                        as  your pupils do, either
+at the same time or previously.               You will       become interested in the work, and that
+interest will spread      to every pupil.        That, at least, has been my experience.                   Children
+are imitative, and when they see you doing and enjoying                         interesting experiments they
+will wish   to do them also.        At    the same time you can easily appeal to another clement
+which is still stronger in most children — that of emulation; not an unworthy incentive
+to appeal to, especially     if it  is done with        skill.    They will compare their inferences one
+ with   another.     Get them to compare               with yours.         You should        also    examine their
+ written   work, and commend           all of it that shows independent effort.                    Frequently      you
+ can commend      pupils for their discoveries, at the                 same time that you criticise their
+ statements   of facts.     Always     commend         when you can, and criticise with moderation.
+      There is no better way to become acquainted with your pupils, and no better oppor
+ tunity for doing individual work.                It   is sometimes       claimed that it is impossible to
+ individualize  with the pupils in our public schools when the classes are large                             ;  but by
+ this method it becomes         comparatively easy.             After school you        have in your possession
+ the notes   written     during    experiment hour, and through                   them you rapidly             become
+ acquainted with your pupils, and             see   just how you can best help them.                     Frequently
+ they need no help, with         the exception          of some brief marks agreed              upon to indicate
+ the mistakes you wish them to correct.                  Some     pupils may need          a word of encourage
+ ment   or direction, and this is usually more valuable if given in writing, though some
+ times  it is better    to speak     to them       privately.        I  seldom     speak     to a pupil     in class,
+ unless it is in a whisper, for the class              hour should        be   a   silent one       on the part of
+ teacher as well as pupils.       If  you would have it quiet, keep quiet yourself.
+     For suggestion for correcting             books     or paper's,    see  note     to  " Author's      Letter     to
+ Pupils" (Lesson Sheet No. 1).                  This     method      of studying         science     furnishes     one
+
+ of the    best    opportunities      for discipline     in   English composition         ;   for pupils        have
+something to write about,             consequently      essay-writing becomes easy and pleasurable,
+and pupils form the             invaluable     habits of writing upon subjects about which they
+know something, and of expressing their own thoughts and discoveries.                                In fact, the
+ many incidental         benefits   derived from the        course     are of more      value than even the
+ physical knowledge gained.                Moreover, aside from the particular            physical facts that
+ the    pupil    discovers, there        are   general   ones     of   much     greater     value      which     can
+ neither   be   understood nor appreciated unless reached                  through the individual experi
+ mental method        ;  such  as the    fact that the answers obtained from nature depend upon
+ the questioner     ,   that they approach the truth in proportion              as  the question is properly
+ put, and the answer carefully read              ;  the immutability        of the operation of nature            —
+ the   fact that exactly the same cause3 always produce exactly the same results                              ;  the
+ fact that there is no such thing as chance, every effect having its cause                       ;  the fact that
+ the so-called    "natural laws"        are simply our explanation of Nature's uniform operations.
+ By this method of study,            as   one of our critics      has put     it, " the pupil      comes    to see
+ things   as  they are, and not       as he   thinks they ought to be."
+                                                   APPARATUS.
+      Of  no less importance than            the outline    of the course       in physics is the apparatus
+ with which      the experiments are performed.               To   meet the wants of grammar schools,
+ the apparatus should be neither extensive nor expensive, but                     it should   be sufficient and
+of   an interesting       character.      In order    to obtain from      it  the best discipline,        not only
+should the apparatus itself           be   carefully considered, but the means by which it is pro
+vided.       Theoretically,      the plan for using home-made             apparatus is the best, but this
+plan has usually failed to           be    very satisfactory     in practice, because of the crudeness
+of the method by which it was attempted.                  Pupils will     do much in the line of making
+their own apparatus after they have                   become    interested in the work, but generally
+not at first.
+     We     have    found    it   the   best   plan to provide the          pupil    at the    beginning with
+simple apparatus for trying interesting experiments                  ; then to lead him, after his interest
+in experimental science is aroused, to increase               his stock by such pieces         as he can     easily
+make for himself.          No matter how simple it is, he takes more interest in experiment
+ing with apparatus provided for the purpose, especially if it is of his own make, than
+in using articles not set apart or especially fitted up for his purpose.                            Just    as   the
+little girl    loves    her corner play-house,        with its miniature tea-set or shelves of broken
+crockery, so the older child loves a little work-shop or laboratory, with                             its supplies
+of his own making.
+     Interest the pupil in experimental science             ;  then provide him with files and a little
+glass and rubber tubing, and he             will find his own        cans and bottles, and make his own
+
+apparatus.         We     have seen this method produce such excellent results that we cannot
+too earnestly recommend it.
+      In order, however,          to adapt this work        to the widest possible      range   of conditions,
+it is published in two             courses, one within        the other.   The briefer one, given on the
+second page of each sheet, is complete in that it brings out every essential principle
+of the subjects treated.             The course, together with the apparatus which we provide, is
+adapted to such schools            as, for any reason, cannot adopt the home-made              apparatus plan.
+      On the fourth page of each sheet, running                  parallel with the briefer course, is given
+auxiliary work         ;  this consists of clearly illustrated         directions for making extra appa
+ratus for experiments which will be found useful, either to bring out the principle
+sought in a different and more striking manner, or to furnish interesting applications
+ of laws already learned.
+      To     make    applications is      as  essential in the study of physics       as   in arithmetic, and
+ for that purpose          a variety     of experiments is better, and far more interesting to the
+ child, than a number of problems.                    In   a very few cases (two      or three only, in this
+ first course), where applications by experiment are not practical, problems are given.
+      Another benefit afforded by              the  " Auxiliary     Work "    is that  it furnishes     an easy
+ entering wedge          for manual training-work,          the great intellectual    and moral,     as  well  as
+ material value of which is now conceded by our best educators.                               Whenever     it   is
+ possible, pupils should be permitted, or even required to make their own apparatus.
+ Except        the  drilling of    holes   in glass bottles, it can be readily done        — even this is not
+ so difficult as at first       it seems; it     has been repeatedly done        by the younger pupils of
+ the author's classes.           Not only     does   the   pupil take more interest in performing             the
+ experiments, with apparatus of his own making, but he is at the same time training the
+ hands      as  well as the   mind.      Moreover, there is a fascination in the endeavor to acquire
+ precision in either wood or in metal working — there is an especial                        fascination in the
+  manipulation       of glass designed for apparatus.              Pupils  have  willingly devoted      most of
+ their leisure time to          such work — with         the broken ends of three-cornered files, drilling
+ holes     in  thick glass bottles     —   making   them     true with rat-tail files — bending and blow
+ ing glass tubing        — in fact,    themselves     making from beginning to end, apparatus capable
+ of use for fairly precise          quantitative results.        They did not always exactly reproduce
+ things they had seen, but exercised their inventive powers, and occasionally produced
+ something new.            Thus    these young pupils became           not only discoverers     in the field of
+ physics, but genuine           inventors,   and they obtained a better education by such efforts
+ than book study alone could ever have given them.
+             DIRECTIONS        FOR OBTAINING MATERIAL                 AND MAKING APPARATUS.
+       Illustrated    instructions in glass-working that will           be useful to all, whether provided
+ with the regular apparatus or not, are given on early lesson sheets, under the heading
+
+of   "Auxiliary Work"; but                 a  few preliminary directions will be especially helpful                 to
+those    who make           all their own apparatus.               The body of the "100 in            1" apparatus
+ (which, together with the lever, is all that is absolutely necessary for this first course)
+may be made of almost any wide-mouthed bottle.                            The most difficult part of the work
+lies in making the holes.                I know of but one way that is generally practicable for the
+student, and that is the one mentioned above                        as used     by my own pupils.        Holes may
+be made        with    a   hard steel drill held in a carpenter's brace, but the drill requires
+frequent sharpening, and the novice will break more bottles than when using a broken
+fde held in the hand.               In   some localities machinists can be found who                will drill  them.
+It  is claimed that glass is more easily drilled when wet with turpentine, but                           I  find that
+water does just          as  well either with file or drill, and            I  have  frequently made the holes
+with    files without        using any liquid.          If  a file is used (and an old worn-out one is just
+as  good    as  any), when the corners become dull lay the end on a piece of iron and break
+off the end with a hammer.                  After   a   little practice     a very small bit at a time can be
+broken off, and so the file can             be used      for drilling many holes.         Hold    the bottle firmly,
+and   be satisfied     with slow progress,         especially when the hole is nearly through.
+     It  is advisable to obtain the             rubber tubing first, then to make               the holes just the
+size for    it  to fit snugly.         The tubing, obtained from druggists, school-supply, or rubber
+dealers, should be of the best quality.                    Nothing     is more unsatisfactory than         £>oor  rub
+ber for the short pieces            that unite glass tubes and bottle.                For that    purpose   even the
+best quality,      if  very thin-walled, does not work well.                    Each set of apparatus requires
+about three feet, and,           if  the best is obtained, the short pieces can be cut from the long
+one, and,      if lost, easily replaced.          One inch, however, of the best quality and thick
+ness, together       with     three    feet of cheaper        tubing   (if it is not    the poor, half-clay stuff,
+which you can detect by rubbing with the fingers), will answer very well.                                   The soft
+glass tubing should be of medium thickness, for,                        if thin, it breaks      too easily for chil
+dren's use.         A     good quality       is  furnished        by school-supply       dealers,   at  prices from
+fifty to seventy-five cents per pound.                    The glass tubing should be a very little larger
+than the hole in the rubber, so that it will make the connection with the bottle not only
+water- but air-tight, even under the pressure of two or three atmospheres.                             As   the glass
+tubing is sure to vary somewhat in size, select carefully that which fits best for pieces
+that are used         in    bottle holes.        Other sizes        may be used for Pressure Gage,             Equal
+Armed Siphon, Siphon Fountain, etc.                   ;   even    the pieces     to be used in the stopper may
+vary more than those in bottle holes.                    The latter should not vary         a  thirty-second of an
+inch in order to work well.                 The variation        may be greater, however, with thick             than
+with thin rubber connectors or packing.
+     Corks, if of the best quality, may be used quite successfully for most of the experi
+ments, though rubber stoppers                 are much better.           If   corks are used, soften      by rolling
+them on the floor with the foot, using considerable pressure,                        after which make the holes
+with a rat-tail file,          if not provided with regular cork-borers.                  If  rubber stoppers are
+
+used, get the best    ;   though the difference in price of rubber stoppers is considerable,
+it is not comparable with the difference in satisfaction            afforded, and the best will last
+much longer without          becoming hard.       We   have   been using some     for four years that
+are yet excellent;      and others that were very good at first are now so hard                as  to be
+utterly worthless.      The difference in the length of wear of rubber tubing is even greater
+than that of stoppers.           We    have four-holed stoppers of the best shape         and   material
+made on purpose      for the work       ; but the best quality with two holes, always to       be found
+on the market, do just as well for nearly every experiment, provided they fit the bottles
+perfectly.     They should       enter but a very short distance, and should not flare enough to
+prevent being crowded in, nearly their entire length.                 Most stoppers    flare too much
+to  work well in    some experiments, unless          the neck of the bottle flares nearly as much.
+The holes should admit          the glass tubes easily, when the stopper is not inserted in the
+bottle.    For  these    reasons,    stoppers   and rubber tubing should first       be selected,   then
+glass tubing obtained, and the holes in the bottle made to correspond.                 Stoppers of the
+same make aud number are of the same size, but not so are the mouths of bottles of the
+same    " batch."   They vary more than most dealers will admit.              Hence the stopper and
+the   bottle should     be seen     to fit perfectly before  labor is expended in hole-making.
+     If  you collect pickle or similar bottles (which can usually be done cheaper than
+ buying from dealers) and order stoppers and tubing by mail, specify that the outside
+ diameter of the glass tubing must            be the same as that of the hole in stopper,       and the
+ diameter of hole in rubber tubing a very little less.
+     We give below the price and number of the best two-holed stoppers furnished by
+ the  Franklin Educational          Company of Boston (as satisfactory a company as we have
+ ever dealt with), for the smallest-mouthed bottles that are convenient both to obtain
+ and to use.
+     No. 10, price 45 cents, is a trifle too large and No.         9 is  not large enough for a 1\-
+ inch hole, but just right for sizes between \\ and 1| inches.             From 1| to lyff, No. 11,
+ price 50 cents.     From 1| to 1|, No. 12, price 55 cents.             No. 12 is exactly     \\  inches
+ diameter at the smaller end, hence will not work well for all experiments in a 1-J-inch
+ mouth, but will for one a trifle more or less than 1|.               These stoppers have holes the
+ same size, namely,        \  inch diameter ; No. 9 has smaller holes.          Price of an excellent
+ rubber tubing to fit     -^-inch  glass is 8 cents per foot   ; of the very best (the same we use
+ and furnish), 10 cents.         The same size tubing (half clay) can be bought for 4 cents.
+                      THE      "100   IN  1"  PHYSICAL SCIENCE       APPARATUS.
+     In order  to meet the wants of such as cannot make             all their apparatus,    we furnish
+ sets for the first course (the qualitative          study of water and air), at the lowest price
+ consistent with    the best material and workmanship.              These sets include everything
+ needed    by each pupil,       with the exception of a tin spice, or baking-powder             can and
+
+cover, which he can usually bring from home.                                          Instead of bottles with drilled                                 holes
+we have             devised a glass cylinder,                     the    " Apparatus,''             which        is much better.                       This
+                                                       is shown in the cut, together with the largest number
+                                                       of attachments                used         for any one experiment.                              This
+                                                       cylinder is made of clear pressed glass,                                    consequently
+                                                       mouth        and holes do not vary in size, the latter, for
+                                                       the easier admittance of connectors, flare slightly.                                            It   is
+                                                       5^      inches    tall (more           than     2| times that of the cut),
+                                                                                                                                          -1-
+                                                       1|      inches    in diameter,              with a thickness of    inch at
+                                                       the     top,     which        increases        regularly             to
+                                                                                                                             \      inch             at the
+                                                       bottom.  The thickness of the bottom (the only thing
+                                                       which can vary. and slight variation there does not
+                                                       affect     its utility)        is    from     ^     to   jj-   of an inch.               It   is   not
+                                                       easily broken, even by                a     fall of considerable                 distance.
+                                                            ADDITIONAL APPLIANCES FOR EACH PUPIL OR
+                                                                                                  SCHOOL.
+                                                             A    few articles easily obtained, differing                                somewhat
+                          Exp. 24.                     according to circumstances, are needed,                                    together with
+                                                               regular "
+                                                                                             :'
+                                                       the                     100 in    1        apparatus.           A     dish of water for
+each pupil, from which to supply the bottle, and in which many of the experiments are
+performed,              is   the only one           absolutely necessary               under all conditions.                        We mention
+several used for that purpose,                         that choice may be made according to circumstances.
+A somewhat expensive thing, but                             the best,     is   the glass battery jar,                 6   inches in diameter
+and     7   inches deep, illustrated                  in   Exp.    8    and    9.    A     cheap substitute which does very
+well, in fact just                as    well in most experiments,               is   a   certain make of fruit jar,                       5]         inches
+deep and            4   inches         in diameter, with        a     mouth of        3|     inches in diameter. illustrated                                in
+Exp.       21.      Two-quart             fruit jars, or large acid bottles,                are easily cut off near the top and
+make        excellent          water jars.   (See easy method of cutting bottles, Auxiliary Work,
+sheet       IV.)         A    tin dinner-pail will answer, though   glass dish    preferable as the
+                                                                                            a                          is
+experiments are better seen.
+   A        wide-mouthed               battle,   holding   a   pint or more, and            a     small towel are very convenient,
+since with the bottle, on many days the large dish of water                                           is   not needed.
+      If    work     is      done on sloping          desks with lids, blocks to level the lids are better than
+books      ;   if   desk       tops are stationary and slope,                   blocks are necessary                      to level       a      tray on
+which to experiment.
+   A        tray or shallow                 pan.     As    some       water     is   unavoidably                spilled,         even     the         most
+careful pupil will usually need                        a    pan, unless working on specially prepared laboratory
+table       or where          a   little water        is   not objectionable.
+
+     Every class should have a rat-tail file for common use, unless each pupil provides his
+own tools       ;    with this, an awl, or nail, each one can make for himself several valuable
+additional          pieces of apparatus,              at no expense        in money and but little in time.                             Corks
+for extra bottles           are easily perforated with                the file, so that tubes               of the regular sets
+will fit.      Small tin cans, such              as those       for baking-powder, spices, etc., are easily obtain
+able, and can be punched with the                         awl or nail         ;   then    the hole can be easily enlarged
+with the file until the tubes fit.   With the rat-tail file holes are easily made through
+            "
+the "edge     of a bottle, then, with care, they may be rounded so that the rubber tubes
+will fit        Where gas is available, two other files should be supplied, one a " three-
+            them.
+cornered," the other a " half-round " file. A gas-jet bottle-cutter is furnished in each
+set, but a file is needed               to scratch the glass               where the fine gas-jet is to cut                          it,   and
+the half-round           file to smooth the edges so that they                            will not cut       the fingers.               Keep
+the file       wet when      in use.
+                                                        THE LABORATORY.
+     It   is   now conceded that the laboratory                       is   one of the first essentials                   of every well-
+equipped school, outranking                       in    importance even             the library.         The education there
+obtained       is    more   practical and of the kind to which civilization                                  is       chiefly indebted.
+That      the laboratory has not found its way into every school                                   is    due, in part at least,
+to the usually great expense of its equipment                              and maintenance.                 It   is    believed that in
+this course, for one so valuable, the laboratory expense                                   has been reduced                  to the mini
+mum, and that in no school are                          the    difficulties       in the way of its introduction                        insur
+mountable.            Not only     the apparatus itself, but the other provisions for the work, may
+be more or less extensive, according                            to conditions.            Pupils   can do all their experi
+menting at home on the kitchen table, or wherever convenient.                                                    It    can be done           on
+ordinary school-desks,            in trays, or shallow pans, leveled with blocks                             if       the desks slope         ;
+the apparatus when                not in         use being         kept in the            boxes    stacked in the corner of
+the room, or on shelves.                    In    most school-rooms               there    are one or more               walls against
+which narrow tables can be fastened                             with hinges and,           if   in the way, let down when
+not in use      ;    the cupboards or shelves for apparatus being placed                                above.          If   there      is   not
+table     room       for an entire class, the class                  may work in sections at different hours,                                 in
+which case sets of ajmaratus for one section                               is     all that will be needed.                    It   is   advis
+able, however, when               convenient, that               a   room,        even    though small, be set apart for
+laboratory work.             Its fittings         need        not be elaborate,           tables   being the only absolute
+necessity,          though water and gas are exceedingly convenient.                               Water must                be    provided
+in some way, even            if   it   is   brought in pails.              Gas also       is
+                                                                                          a     necessity        if    glass apparatus
+is   to be      manufactured.               A jet for         each one or two pupils               of   a   section          is    very con
+venient, though much may                         be    done with      but one jet in the room, by using rubber
+tubing long enough to bring the gas to the table. where                                   it   may be connected with either
+
+a common     or a Bunsen burner, or the glass-cutter, according to the work for which it is
+desired.
+    Appliances for the second course, which continues the study of air and water, but in
+a more   decidedly quantitative    manner,  differ but little from those used for the first,
+some additional     apparatus being required and furnished, though most of it is easily
+made by the pupil.        But for the third subject —-Heat — gas is necessary for experi
+menting,   as well  as for constructing apparatus.
+    The study of heat should follow, and constitute        a part of that of air and water, and
+so fit the pupil    for the study, either in or out of school, of the constantly varying
+phenomena     of the seasons, and such practical subjects     as house heating, ventilating, etc.
+    Where    a room   with tables and gas is not available for grammar schools, but is for
+the high school, the first, or first and second courses, may profitably be given in the last
+year of the former, and heat in the first year of the latter.
+    The   teacher will perceive, by examination         of the material selected   and method
+employed, what the author has learned by experience, that this course is just            as avail
+able for high- as for gram mar-school   pupils.    It is for the beginner in physics, whatever
+his age or advancement in other studies      ;  the older or abler pupils    can do more com
+plete  work, and perhaps       accomplish in one      or two    months what would      profitably
+occupy others for a year.       This great elasticity   to adaptability is one of the strongest
+features of the course.
+
+                                          AUXILIARY WORK.
+                                                         V.
+     Am. 3       shows   a water-level made of two small bottles            witli their   bottoms cut off,
+ two corks, and a piece of glass tubing             ;  it shows    also how the level is mounted upon
+                                                       Aux. 3.
+ a tripod    stand, and is used for getting the difference in level                 ¦or height above the
+ sea — between two         places.
+     Anx. 4. A       fine   auxiliary    to   Exp.    17 may
+ be performed by placing         a  large tin can or pail
+ on a high shelf near an open             window, out of
+ which the fountain can play.           (To    make a hole,
+see   Aux.    1,  sheet   III.)    If  not well supplied
+ with rubber tubing, connect two from pupils'
+sets by means of a short glass            tube and insert
+the elbow jet-tube, held            in  position      by two
+blocks   ;  or make one that will stand alone, by
+bending      a long     piece   of   tubing     twice,    each
+elbow being at right angles to the other.                 (See
+stand for gas-jet in glass-bending               picture    on
+page 4.)
+     If you   have gas, a great many pieces of very
+valuable apparatus may be easily made of soft
+                                                                               Aux. 4 AND 5.
+glass   tubing obtained at drug             stores,   or pur
+chased     by the pound, of school-supply dealers.               Do not get the cheap, thin tubing    ; it
+breaks     easily and is very difficult to work.               The only tools absolutely needed     are a
+three-cornered file, a common gas flame and a Bunsen burner.
+
+                               ELEMENTARY              PHYSICAL SCIENCE,
+                                                           V.
+    That which belongs             to you is called your property.            Call anything that belongs          to
+water its property, and tell briefly what properties of water you have thus far dis
+covered;     also state        the   two leading     facts about water pressure.               By  use of     these
+facts explain the following experiments.
+    Exp. 15.       Fill   the Apparatus      with water and observe the tube.
+     Inference. Explain why liquids             " seek their own level."
+                                                                                                     0t>
+    Exp. 16. Connect              two Apparatuses         with long rubber tube;            pour
+                                                        water into one and watch both.
+                                                        Raise and lower one, watching
+                                                                                                         Exp. 15.
+                                                        effects.    Place     them close       to
+                                                        gether near the edge of the table or desk, with
+                                                        the rubber tube hanging over, and           fill one with
+                                                        water.     Vary their relative positions and            the
+                                                        position of the tube      as much    as possible.     Note
+                       Exp. 16.
+                                                        and explain fully whatever takes place.
+    Note. — Two pupils should perform this experiment            together, or better, each should provide   himself
+with a small tin can (J lb. baking powder) with
+hole near the bottom.        (To make a hole in tin,
+see Aux. 1, sheet III.)       Did you ever see a car
+penter's spirit-level ? If so, compare it with the
+water-level (Aux. 3, page 1) and with Exp. 16 ;
+if not, find one and study it as soon as con
+venient.
+     Exp. 17. With            the   Apparatus    full
+of water, raise       the     jet-tube  till it con
+tains no water, then lower it till a foun
+                                                                                       Exp. 17.
+tain is formed.
+     Inference.       1.    Explain    how   water    from reservoirs      is   supplied   to towns    and   cities.
+                                                                               2. Why are reservoirs built on
+                                                                               hills? 3. Why do cities lo
+                                                                               cated in level countries build
+                                                                               standpipes     or water towers?
+                                                                               4. On which floor of tall build
+                                                                               ings thus supplied with water
+                                                                               does it escape most rapidly, and
+                                                                               why ? 5. Write about this sub
+                                                                               ject as fully as you can, and
+see  if you can apply the same principle to explain              country water supply by wells or springs.
+See Aux. 4, page         1.
+
+           DIRECTIONS            FOR ADJUSTING THE "100 IN 1" PHYSICAL
+                                       SCIENCE APPARATUS.
+      Before attempting         to perform any experiment, read these         direction* carefully     and,
+follow    them closely.
+      In every experiment, unless otherwise directed,            the holes   in the bottle (see illus
+ tration, Exp. 2) or " 100 in        I Apparatus"     should  be plugged.
+      To plug    the hole in the bottom, stand the bottle or Apparatus           bottom upwards, wet
+ thoroughly a ^-inch piece of rubber tubing or "packing"; insert a shot large enough
+ to slightly stretch the tubing just barely into one end; thrust the free end into the
+ hole until the shot-loaded end is even with the outer surface               ; then, with the thumb
+ push the shot well into the packing.            The holes may also be plugged with small corks,
+ or with rubber stoppers.          The shot-loaded piece of rubber tubing, however, makes by
+ far the best plug.       The side holes may be plugged in the same manner.               To   remove      a
+ plug, push the shot through with a nail           ; then remove the packing.
+      The side holes may        be plugged with the small glass jet-tubes (see Exp. 2) as fol
+ lows: wet     a  "cap"     or |-inch piece of rubber tubing with a shot in the end, and push
+ it over   the small end of the jet-tube      ; put a piece of packing just barely over the other
+ end; then seizing that part of the packing stretched by the glass, push it into the hole,
+ and then with a twisting motion thrust the tube in until it is held firmly.
+      To connect any      glass tube with the bottle or apparatus, put a piece of packing             over
+ the end of the tube      ;  grasp it at the place where the rubber is distended          by the glass      ;
+ insert the packing into the hole, and then push in the tube until it is held firmly.                     If
+ the rubber packing is pushed clear through the hole — which may happen                     if the glass
+ tube is the least particle smaller than         it should  be — thrust  the end of the glass     tube a
+ little further into    the packing, wipe the latter dry, and try again.
+      To   remove a jet-tube or other glass tube from a hole, seize        it firmly  near the packing
+ and draw     it out with    a twisting  movement.
+      Never leave wet packing, caps, or other rubber on a glass tube               ; after drying they
+ are apt to stick to each other so firmly that the glass            may be broken in removing            it.
+ The glass      tubes  are not easily broken, but         they are not intended for rough usage             ;
+ with decent      care they   will last a lifetime.
+      If a long piece of rubber tubing has been used with water, blow the latter out before
+ putting the tubing away.           Sheet rubber should be dried with a cloth.
+      Do not attempt to perform any experiment in a careless, slipshod manner.                    If  you
+ are not careful and orderly, you cannot hope for success in any pursuit.                Begin now by
+ being careful of your apparatus.           Try  to be exact   ; always do your work neatly         ; and
+ always put your apparatus away in good order when you have finished your work.
+
+                                  ELEMENTARY           PHYSICAL SCIENCE.
+                                                        II.
+  *  Experiment         1.    Fill    the Apparatus, or bottle used      instead, to the brim with water,
+and insert a finger.
+      Observation.        What happens       ?
+      Inference. Why           ?
+      Exp. 2.     Fill    the     Apparatus    with water   ;  crowd a large
+shot or glass plug into each hole of rubber stopper, then try
+ to insert    it tightly.
+      Observation       and Inference.
+     Exp. 3. Remove              the plug from one hole of the stopper,
+then insert it tightly.
+      Observation.
+                                                                                        Exps. 2 AND 3.
+      Inference. Why             can you easily insert it now ?       What do
+these three experiments teach you about water ?
+      Exp. 4. Weigh or " heft "            the Apparatus   ;  fill with water,
+and weigh or heft again.
+      Inferences. 1. What does this experiment teach about water ?
+ 2. Would it have weight if there were no force pulling or pushing
+ it towards the earth ? 3. Is it the same force that causes a ball
+thrown upward to fall back to the earth? 4. Dtt you know its
+name ?      [It has a name, but we do not know much about it.]                           Exp. 6.
+5.  Towards what point in the earth does this force pull every
+thing on the earth ? 6. Draw a circle to represent the earth, and illustrate the direction
+objects fall on different sides of the earth, showing where they would meet if they could fall
+through the earth as easily as through air.
+     Exp. 5. Cap        the small ends of the jet-tubes, and insert them             in the side holes, as
+in Exps.     2   and   3,   fill   the Apparatus    with water, and
+remove     the cap from lower jet-tube.
+     Inference. In         what other direction     than downwards
+does water press ?
+     Exp. 6. Upon           three     marbles,  touching each other
+on a smooth surface, place a fourth.
+     Inference. What causes the three                 to roll    apart?
+Now explain why water presses sideways.
+     Exp.    7.   Fill   the      Apparatus    with   water, hold it
+                                                                                              Exp. 7.
+above    the pan and open both jet-tubes.
+     Inference. What           more does this experiment teach you about side pressure than did Exp. 5.
+
+NOTES.
+NOTES.
+NOTES.
+                                        AUXILIARY WORK.
+                                             V. —     Continued.
+     To break     the   tubing   squarely, scratch it with the           file,  then    hold  it with     the
+                                                   thumbs opposite the scratch, and break            as  you
+                                                   would    a  twig.    The sharp        edges   are   easily
+                                                   removed by means of a file         ;  they may also be
+                                                   melted smooth in the Bunsen burner.              To  close
+                                                   the end, or to partly close       it  so that  it may   be
+                                                   used as a jet, hold     it in  the hottest part of the
+Bunsen blaze, and keep turning it             till   the hole is small enough.          To bend it,    use a
+common gas jet, not very large, and                 turn it while heating.         A little   practice will
+enable    you to do it neatly.          The    cut below shows how to make                 a small   funnel
+from a glass tube, by using the Bunsen burner and                a piece   of charcoal sharpened like a
+pencil.
+     If  not supplied      with    gas,  you     can
+shape    thin glass tubing with an alcohol or
+a common     flat-wick oil lamp, but it is very
+difficult work.     Skillful glass-blowers       can
+work     with   crude     apparatus     and     poor
+materials, but pupils not accustomed to the
+manipulation     of glass require the best of
+appliances.      Do    not try    to  hurry    your
+work.      When    the   glass  begins    to   yield
+under the action of the heat, do not bend or shape it too rapidly.                   Unless necessary, do
+not bend a tube at too sharp an angle.               In the above cut the tube is bent at a sharper
+angle than is usually        desired.
+
+NOTES.
+                               ELEMENTARY PHYSICAL SCIENCE.
+                                                              IV.
+      Exp. 12.* Fill       the bend of the pressure gage two-thirds                full of water, and slowly insert
+the lower end several inches into the Apparatus or dish of water.
+                                                                                               <^
+      Exp. 13. Attach          the small U piece to the lower end of the
+ pressure gage, and repeat above experiment.
+      1. Do inferences in Exp. 12 and Exp. 13 agree with conclusions
+ in " Lesson in Seasoning " ? 2. Can you now tell more definitely
+ how rapidly pressure increases ?
+      Exp. 14. (See Aux.             2 on      page 4.)        Insert pressure       gage
+ to the same depth in water contained in dishes of various sizes
+ and shapes.
+      Inferences.       1.  Upon what one thing only                 does    the upward
+ water pressure against the air in the gage depend                  ?   2.   Would it   be
+                                                                any    greater    at   the
+                                                                same   depth in a lake        Exps. 12 anD 13*
+                                                                or pond?        3. Upon
+                                                                what two things does the downward pressure
+                                                                upon the bottom of a dish full of water depend ?
+                                                                4. Is the pressure on the bottom of dish 2. below,
+                                                                greater than that on dish 1 ? 5. How do you
+                                                                know.      6. Is the pressure on the bottom of
+                              Exp. 14.                          either dish just equal to the weight of the water
+                                                                it contains ? 7. In the other, is it greater or less
+than the weight of the water ? 8. With dish 3, how does the pressure on the bottom compare
+with that of the others ? 9. Why ? 10. How does the pressure compare with the weight of the
+water ? If the inside of dish 1 is just 1 foot square on each side, it will hold 62.5 lbs. of water.
+11.   What is the pressure against
+one    side of the dish, if full of
+water ? 12. What is the total pres
+sure against the sides and bottom ?
+13. What is the total water pres
+sure against sides and bottom of a
+dish twice as long, but the same                                               Questions 4 to 14.
+width,      and holding        the same
+amount of water?           Make a drawing of the dish, or a diagram of the bottom, one side, and one
+end.     14. A dish is twice as long and twice as wide as No. 1, but holds the same amount
+of water.       What is the total water pressure on bottom and sides ? Draw or diagram the
+dish.     15. What is the depth of each dish ?                 16. As a general fact, is the total pressure of a
+certain amount of water more             if  held in a deep dish with small bottom, or in a shallow dish
+with large bottom?            17.   A   deep    dish and a shallow dish, both with perpendicular sides,
+hold each the same amount of water ; how does the pressure on their bottoms compare ?
+                                                                 "
+                                                      " 100 in 1 set of apparatus Is considerably shorter than          •
+     *If the right nrm of the pressure gage in the                                                             is shown
+in the cut, it must be lengthened by   one  of the pieces of straight tubing and a rubber connector.
+
+NOTES.
+                                                      AUXILIARY WORK.
+                                                                  IV.
+      Aux.     2.    Though         most pupils         see    the principle      in Exp. 14 without             extra dishes,
+better have two additional pieces, a beer bottle and a lamp chimney or tin funnel, the
+latter corked and standing in                     a   bottle.     Being needed but once, and for only half                       a
+minute, one set will do for                 a class     if   placed where the pupils can use              it in turn —       each
+using his own pressure gage                  if   the work is all done at school               ;   all with   the same gage,
+if regular experiments                  are done at home, and only the auxiliaries at school.                            A   very
+neat funnel-dish is made by cutting                          a beer    bottle, corking and standing the neck part
+inverted in         the"   lower.
+                                  EASY METHOD                OF CUTTING GLASS BOTTLES.
+      In addition          to the things found in pupils' sets, coal gas and a sharp                            three-cornered
+                                                                         file are required.
+                                                                             Scratch the bottle with the file along
+                                                                         the edge of a strip of paper, tied around
+                                                                         it for   a   guide.       Remove the paper, and
+                                                                         rolling the bottle, heat it along the scratch
+                                                                         to a little distance ahead before the crack
+                                                                         starts, or the latter may leave              the mark.
+                                                                         With thin     glass, the crack        will follow the
+gas jet quite steadily without much heating ahead                                 ;   but thick glass         cracks by " fits
+and starts."           After      some practice you can dispense with the scratch,                        except an inch or
+two where the crack is to be started.      Sharp edges are smoothed with a wet file. A
+" half-round " file, one that is flat on one side and curved on the other, is best for this
+purpose, especially for the inner edge.                         Thin    bottles may be cut with a flat-wick oil lamp,
+but the line must            be scratched         entirely around, and even then the glass will not always
+crack where desired.
+      With little           practice bottles          may be cut
+into spirals from end                   to end,       after which
+they can           be stretched         considerably without
+breaking; when released the glass will resume
+its original length with                a sharp   click, showing
+its great elasticity.                  Test-tubes,      lamp chimneys,            thin glass tumblers, and beakers
+are very easily spiraled.
+      The latter the author has so cut                       as to be    stretched to twice their original length.
+The smaller part of               a chimney,       like the one used for Aux.             1, on sheet         III.,   the author
+cut into       a    spiral of     60   coils within      a    length of   8 inches.      The diameter of the chimney
+was    1-|   inches.        If you     can estimate the present length of that 8-inch piece of glass, you
+will   find that       it   is   more than three times that of your height.
+
+NOTES.
+                           ELEMENTARY PHYSICAL SCIENCE.
+                                                   XVIII.
+     Exp. 75. As this experiment requires parte of apparatus from two                    sets, and assist
+ ance in starting it, two pupils would better work together.
+ One should hold the funnel and bottle full of water                 as illus
+                                      trated,    the   other pours      water
+                                      into the funnel to start it.
+                                          Inference.
+                                          Exp. 76. Arrange three Ap
+                                      paratuses      as   illustrated,     and
+                                      blow     through      the   open    bent
+                                      tube to start it.      Vary the height
+                                      of the fountain piece and notice
+                                      the effect     upon the       fountain.
+                                      Try   the    same  with the "foun
+                                      tain head," the bottle in which
+                                      you blew.
+                                         Inference. Explain each step
+                                      of the experiment, and be sure
+                                      to tell what variations affect the
+                                      height to which water rises, and
+                                      what the length of stream after
+                                      the water leaves the jet-tube.       See
+                  Exp. 75.            Auxs. 25-30, sheets 12-15.                           Exp. 76.
+   Exp. 77. A little     care is necessary     in order to get the tube exactly over the bottom
+hole, and near enough to      it to work well.       To give    the necessary inclination     to the tube,
+                           crowd the rubber stopper in more on one side than the other; it is
+                           easier to use a common cork with a hole in the center.                     Blow
+                           hard through the tube, and water          as well as air is blown out.
+                               Inferences.      1.  What must      be the condition     of the air in the
+                           Apparatus before water can rise into it ? 2. Explain as fully as you
+                           can how the necessary conditions are produced.            See Auxs. 31 and 32.
+                               Exp. 78. Blow hard through             the   tube  held in a horizontal
+                         position, with wooden ball held an inch or more
+       Exp. 77.
+                         above    the opening      near the bend; let go the                         V, _
+ball, and keep it floating in mid-air.       After acquiring      some  skill with
+the tube    in that position, incline it    as  shown in the picture, and        see
+                                                                                      o
+how much you can do so, still keeping the ball in the air.                       See
+Auxs. 33 and 34.                                                                            Exp. 78.
+
+NOTES.
+                                          AUXILIARY WORK.
+                                                     XVIII.
+      Aux. 31. Cut         and    bend a piece       of heavy writing-paper           or light cardboard as
+ illustrated,     and balance     it  on the point     of a long needle.         A   large flat cork or any
+                         corked bottle makes a good stand for the needle.                  Fan  one end with
+                         a piece    of cardboard, or with the hand, moving it from the center
+                         outward, and the paper will swing towards the fan.
+                              Inference.
+                              Aux. 32. Insert       a glass  tube     tightly into     a hole in a piece      of
+                         thick cardboard.        Insert a pin to its head in the center             of a piece
+        Aux. 31.
+                         of thin cardboard of about the same size.                  Place the    former    over
+                         the   latter  as  illustrated; while blowing           through     the tube, lift it
+                         from the table, and the lower card             will follow.     In fact, you cannot
+                         blow it off.
+                              Inference.
+                              Aux. 33. Much better than             the wooden ball, in       Exp.   78, is one
+        Aux. U2.
+                         of pith     or of cork, but still better are the "oak-galls"                 or "oak-
+apples"     which grow upon oak leaves,              as the result of the sting of a certain species
+of gall-fly.       The  oak-gall     after becoming ripe       has     a hard shell, but is very light,
+and by a little skill can be kept in the air a considerable distance from the tube for
+nearly a minute.          The   best size is at least an inch in diameter.             Of  course   a straight
+tube can be used by throwing the head back, and with skill the tube can be brought
+down     till it is   more    nearly horizontal     than perpendicular, and the oak-gall still kept
+revolving     in mid-air.       A quill   toothpick, cut square at the outer end, makes a very
+serviceable tube for this and several other air experiments.
+                                                                                 '
+      Aux. 34.       Cut or break off          the  neck of    a    bottle (a      smoothed     edge    is not
+essential),      and fit    it with cork        and   tube  as   illustrated.        Hold    it
+well down over one of the small wooden balls and blow through                              the
+tube.     The ball rises into the bottle neck, and you cannot blow it out
+even     with a powerful         bellows.     Use also a marble.          A   glass    marble
+shows beautifully       the rotations     it  makes.     The same piece of apparatus
+may be made with          a common     spool by cutting out a cone-shaped cavity in
+                                                                                                    Aux. 34.
+one end, but a white glass bottle-neck makes a much prettier piece.
+     Inference. What lifts the ball against the strong current of air which one not accus
+tomed to the experiment would expect to see blown away ?
+
+NOTES.
+                           ELEMENTARY              PHYSICAL SCIENCE.
+                                                    XVI.
+     Exp. 64. Connect       a  tall bottle   to the Apparatus with the longest jet-tube as    illus
+trated.   Suck the air from the Apparatus, observing what is happening to the air in
+the bottle at the same time.            Pinch the     tube, rest your throat, and suck again     till
+you remove as much as you can           ; then let go the rubber tube.
+    Inference. Explain       the operation of the fountain, and the process of preparing conditions
+necessary for its success.
+                                                 Exp. 65.               Exp. m.
+    Exp. 65. Fit      a jet-tube tightly to the small bottle, and put it inside          the Appa
+ratus.   Pour in  a little water, cork tightly, and suck out the air.
+    Inference.
+    Exp. 66. With      a short rubber tube on the large end of the jet-tube suck the air
+from the Apparatus (or any bottle with a common cork and tube), pinch the rubber
+while transferring the end in the mouth to a dish of water, then release it.
+    Inferences.    1.  How much of the air did you get out? (After a little practice you can
+exhaust more than half of it.)       2. Do you draw it out ?     3. What forces it out ?
+    Exp. 67. Try    to suck water from the Apparatus completely            full.
+    Inference.    Why    cannot you do so ?
+    Exp. 68. With but little water in          the Apparatus and with the tube reaching into the
+water, try again.
+    Inferences. 1. Why can you get water now ? 2. How does air differ from water as
+regards the cohesive force between its particles ? 3. In place of the cohesive force, what
+kind of a force does air possess ? 4. How does it act compared with cohesion ? 5. Compare
+with discussion of Exp.    51.   See  Aux.  20.
+
+NOTES.
+                                          AUXILIARY WORK.
+                                                        XVI.
+     Aux. 20. The        diagrams     below represent        a simple form of the air-pump used to suck
+                                                                 or " exhaust
+                                                                                   "
+                                                                                       a part of the air from a
+  (LZ>HEZi>                         c
+                                                              "  bottle.    C   is a cylinder
+                                                                               P.
+                                                                                                   in which works
+                                                                 the piston            v, v are   valves or little
+                                    c
+                                                                 doors opening one way only.
+                                                     -s
+                                                                      Inferences.        1. Explain     its action.
+                           Aux. 20.
+                                                                 When the piston is being pushed in, are
+ the valves open or shut ? Are they open or closed when the piston is being pulled out ? Tell
+ about each one in each case. 2. Does the force applied by the hand open the valves ? What
+ forces the air out of the bottle when the lower valve is open, and what opens it ?
+     A mercury air-pump             may     be   constructed        with   parts     of    three   pupils'  sets  of
+apparatus.      With this pump nearly all                 the   air may     be    taken from a bottle.          The
+apparatus    itself is very cheap, but its use requires
+considerable     mercury       (none of which           need      be
+wasted, however), time, and attention.                 It   is well
+worth    constructing,      if only for        the   purpose      of
+studying its operation.          If   provided with     a    retort-
+stand and   a glass    funnel, they may         be used    instead
+of Apparatus       a,   and its supporting           blocks.      A
+screw-clamp for regulating the flow of mercury, is
+better than the clothespin.           In  place of Apparatus
+b,  one may use a small inverted               bottle with the
+bottom cut off.         A single       tube    (represented       as
+broken) reaches from b to c. If the pump is used
+for practical purposes, and a nearly perfect vacuum
+is desired, this tube should be about two and a half
+feet long, with a thicker wall and smaller hole than
+those commonly used.            If  used only for the pur
+                                                                                                      Exp. 77.
+pose of study, two or three pieces well connected
+with short pieces         of rubber tubing         will answer very well. If a small amount of
+mercury is used, the experimenter is              kept busy pouring it back into a. Two tumblers
+should be used; then by tipping              c a little  to empty it, time        enough during which there
+is no flow from       it  is obtained      in which to change dishes.               If  the glass tubes between,
+b  and d do not nearly or quite touch each other, the rubber tube will be compressed (as
+shown in picture) so much as to prevent getting a free flow of the air from d.                                    If
+they do touch, by keeping the rubber attached                        to d, with a       little  care they   can  be
+disconnected without allowing any air to enter.                    In order    to secure the largest number
+of observations,    tube    e, in which they are made, should              be a   long one.
+
+NOTES.
+                               ELEMENTARY                PHYSICAL SCIENCE.
+                                                          XV.
+     Note. — For    the illustration of Exp. 58, see previous      sheet.
+    Exp. 58. Insert          the end of the longer arm of U-tube                 into the bottom hole of the
+                                   Apparatus        till  the    bend   is below the      mouth, and fill the
+                                   Apparatus with water.                This   is called a Tantalus       cup.
+                                         Inference.
+                                         Exp. 59. Arrange           a dish   with
+                                   tube to supply a small but constant
+                                   stream      of water to the Tantalus
+                                   cup,     and you will have an inter
+                                   mittent      flow from the          cup.   See
+                                   Aux.     19.
+                                         Inference.
+                                         Exp. 60.*       Fill  the double-bend
+                                                                                                Exp. GO.*
+                                   jet-tube with water, hang it over
+           Exp. 59.                the edge of the Apparatus, and you have a                " siphon fountain."
+    Exp. 61. Place         a short tube in one hole of the stopper and the long tube in the bottom
+hole of the Apparatus.             Fill   the   Apparatus       with
+ water and insert stopper.           Place your finger over
+the end of      the tube       beneath     the Apparatus         and
+invert.    Use the bottle dropper          as you did the tube
+                      in Exp. 50 and explain.                 See   if
+                      you cannot invent a dropper.
+                            Exp. 62.    If  the Apparatus and
+                      tube     are full of water,         and    you
+                      uncap      the    upper     jet-tube,     how
+                                                                            Exp- 61-
+                      much water will run out?              This is
+                      a good test of your previous work on air pressure.                    Answer first, then
+                      verify by experiment.
+                            Exp. 63. Borrow          an extra apparatus and stopper, or              still better,
+                      use a large bottle as shown in next experiment.                    Place in any position
+                      and suck out the air.
+    Inferences.       1.  Distinguish between the force that, in this case, fills the rubber bag and
+" how we breathe "                      2. How is the air withdrawn from the Apparatus ?
+                         (Exp. 43).
+    * Instead of the tube shown in the cut, use the unequal-armed siphon with a jet-tube connected to
+the short  arm by means of the long piece of rubber tubing.                Apply the mouth to the jet-tube and
+exhaust a little air to start the flow.
+
+NOTES.
+                                              AUXILIARY WORK.
+                                                        XV.
+     To study       the operation of this pump, use        it first with water, without      the long delivery,
+having in its place a short rubber tube hanging in a dish to catch the water.                         With  the
+hand, alternately compress              and release the bulb; note what happens.                By experiment
+find how to hold the pump to deliver a stream of water, and retain considerable air in
+ each bottle     ;  how to retain air in one bottle only             ; and how to fill both with water.
+ Explain    the working of the pump, naming each force in order, beginning with the force
+ that compresses         the bulb.        Be particularly   careful about the second and third forces,
+ for very likely you will overlook one of them.                   Does the pump act differently with air
+ than with water?             Try     each,  and devise    your own means for determining              whether
+ there  is any difference in principle.              The apparatus with delivery tube, shown in the
+ picture, is used to illustrate the circulation of blood.               The pump represents the heart          ;
+ the tube, between         the pump and the rattan, an artery           ;  the rattan, the capillaries    ; the
+ tube beyond, which should rest in the tumbler of water, represents                       a vein.
+     Every time you          squeeze      the bulb, the water spurting        from the notch in the glass
+ tube at the right of the rattan illustrates the manner in which one loses blood when an
+artery is severed.          Slip   the rubber tube over that hole and work               the pump   ; the slow
+ but steady leaking from the rattan and the other glass notch illustrates                        how a wound
+ bleeds when capillaries or a vein is cut.             With    the tube   lying    on the table while working
+ the pump, press upon the tube, or bend                 it sharply beyond        the rattan  ; the extra spurt
+of water from the jet-tube illustrates how the circulation of blood is increased by exercise.
+     Aux. 19. An intermittent                spring is one that does not flow all the time, but has
+alternate periods of flow and rest.               The periods of rest come generally after a long dry
+spell, and sometimes             not  till
+the dry spell has ended and             it
+is again rainy weather.             This
+picture    illustrates       the     con
+ditions of a hill from which
+there issued such a spring, un
+til a railway was cut through
+it  and   the      spring     was     de
+stroyed.      In     the   hill   was    a
+cavern seamed           with     numer
+ous    small       cracks       through                                   Aux. li).
+which ran the water that filled it.             The water flowed out through         a single arched opening.
+     Inferences.         1. Explain how the flow       became    intermittent under varying conditions of
+weather.      2.   Under what conditions might         a drought come and go        without the flow of water
+ceasing ? 3.       If  it stopped flowing, how much rain or melted snow would have to find its way
+into the cave before it started again ?
+
+NOTES.
+                                     ELEMENTARY                     PHYSICAL                  SCIENCE.
+                                                                     XIV.
+     Exp. 55.           Fill     the U-tube with water and, placing                          a   finger over one end, invert and
+                                         hang   it   over the edge of the Apparatus                               or dish full of water,
+                                         and remove the finger.-              Raise      it   until    the water runs out in drops,
+                                         and finally not at all.                   Experiment              till you    see   how to make        it
+                                         run either slowly or rapidly at pleasure.
+                U;.
+                                             Inferences.       Infer the difference in conditions.
+                                                                    1.                                Test your                   2.
+                                         statements by using the unequal-armed U-tube, to see      you gave the              if
+                                         conditions correctly.       Explain carefully what starts the water
+                                                                          3.
+                                         running, and what keeps              it      running.        4.    If   there were no air in the
+                            -\           room, would    run at all
+                                                          it              If you think
+                                                                                  ?      would, tell how and
+                                                                                        5.                        it
+                                         why.   This instrument    called    siphon, and
+                                                                              is           has
+                                                                                             a    great many          it      a
+                                         forms.  Experiment with any other you find in your set. Make one
+          Kxp- M-
+                                         with your long rubber tube, and experiment with    in different posi          it
+tions.    C.   How many of the tubes in the " 100 in                          1    " Apparatus        set, can you use as siphons           ?
+     Exp. 56. Use                the same apparatus as in                     Exp.       55, with the addition of the baking-
+powder tin and, after the water has reached                                        the same level in each dish, raise                       first
+one, then the other, and watch the changing                                        direction of the flow.
+     Inferences.               1.   If   you call the perpendicular                distance      from the highest             point of water
+down to       a    point the length of an arm of
+                  certain
+the siphon, what     that point in each arm, and
+                            is
+isit always at the end of the tube      Which         ?        2.              is
+the longer arm of each siphon                   ?
+     Exp. 57.           With        the Apparatus arranged as in
+Exp.     16, place         the       latter and      a    tin dish       near
+each     other, fill one with water                  ;    as    soon     as   it
+begins to run into the other, raise the center of the
+rubber tube        as    high       as possible      above the dishes.
+                               Exp. 57.                                                                    Exp. 58.
+     Inferences.               1.   What starts the flow, and what keeps
+                                                            going    2. Does the force that    it             ?
+keeps    it    running affect
+                           when the tube lies on the table or hangs over the edge?
+                                         it                                              In                                                3.
+which of the three cases would  How just the same
+                                                it  there were no air in the room   if                                                 ?
+
+NOTES.
+                                         AUXILIARY WORK.
+                                                     XIV.
+     Note. — Auxs.    29 and 30 are not to be used until they are referred to in the regular work.
+                                Aux. 29.       This  is a student lamp, the operation of which is
+                           easily studied, as with the exception of a cork and two nails,                it  is
+                           made entirely        of glass.    The cork tightly fits the inverted half
+                           bottle, and is perforated for        a tube     through which the oil reaches
+                           the wick.      Two nails     are driven into the cork and, with the tube,
+                           form the support for the lamp.              The chimney rests on the tube
+                           and two bits of wood, which are separated                just enough    to allow
+                           sufficient draft, the latter        being easily adjusted        by experiment.
+                           This    piece, which is easily made, furnishes also a valuable aux-
+          Aux. 29.         iliary experiment in        the study of combustion.
+     Aux. 30. This is        an easily made and a very serviceable force-pump for use with
+either   liquids    or gases.     With    a single piece      of rubber tubing in place of the long
+sectional    one    shown in the picture, it may be used                 for pumping      air wherever      in
+previous lessons       the  "atomizer      bulb" is     recommended.          It works    equally    well   in
+pumping or forcing a stream             of water.      The rubber bulb, which           contains no valve,
+should    be as   heavy and elastic      as possi
+ble.    One end of a bent tube is fitted
+tightly into it by       means   of a piece of
+rubber     tubing,    the   other    end    passes
+through a stopper containing           two holes
+                                                                               Aux. 30.
+into   one   of    the   small   bottles.      The
+bottles are connected by a piece of glass tubing which has upon one end a valve like
+those   in the apparatus for pumping water (Exp. 42). A similar valve is placed upon
+the end of the tube passing through the edge of the other bottle.                        The holes in the
+bottles may be drilled each in the center of the bottom              ;  if  done with a file they are more
+easily made in the edges.         Glass tubes are fastened in tightly with bits of rubber tubing.
+The glass tube with the valve on the end should be longer than the bottle.                        It  is first
+inserted through the neck        ;  then   if desired,   it may  be shortened.       The long   tube shown
+in the picture is made of rubber, glass tubes, and a short piece of rattan.                       The glass
+tube   in the outer end is a jet-tube          ; each of the other two has a        small notch filed in it,
+and is of such size        as  to allow      the  rubber tube     to slide over the       notch to prevent
+leakage.     The piece of rattan also has a small notch cut in it.                   A  glass tube bent at
+a sharp angle, inserted in the end of a rubber tube                  and hung upon the edge of the
+tumbler, keeps in place better than rubber tubing.                (Continued       on sheet  XV.)
+
+NOTES.
+                            ELEMENTARY             PHYSICAL            SCIENCE.
+                                                      XI.
+     Exp. 42. This experiment illustrates how we pump water. Insert the long tube
+ with slit rubber valve on the end into the bottom hole from the inside, then pull it
+ through to the rubber.           Seize the sheet rubber in the center,         pull up    and push down
+ alternately, and pump water from the bottle into the tumbler.
+     Inference. Explain        the best you can now, and better later on.        See  Aux.   14, sheet  X.
+     Exp. 43. This experiment illustrates how               we breathe.       The Apparatus represents
+             Exp. 42.                                    Exp. 43.                                 Exp. 44.
+the chest cavity     ;   the rubber balloon, the lungs.            Alternately pull out and push           in
+the center of the sheet rubber tied over the mouth of the Apparatus.
+     Inferences.
+     Exp. 44  is nearly the same as          Exp. 43, only    it is performed by using water instead
+of sheet rubber.        Alternately lower       the Apparatus        into water a short distance and
+withdraw it.      See   Auxs. 15 and 16.
+     Exp. 45. Tie      the sheet rubber over the mouth of the Apparatus and put a jet-tube
+into each hole, as in Exp. 23.           Strike on the rubber and feel the air at the holes.
+     Inferences.     1. Compare with pressure transmitted             by water.   See Aux. 17.      Compare
+what you have learned about air with what you learned about water.                     2. What like prop
+erties do they possess?         3. Have you discovered anything which air will do that water
+will not ? 4.    If so,   tell what   it is and where you discovered it. 5.        If  you have not, after
+telling in what respects air is like water,        tell as well   as  you can  how  it differs from water.
+Then try the following experiments, explaining all you can by means of facts already dis
+covered, but keep your eyes open for new facts about either air or water.
+
+NOTES.
+                                         AUXILIARY WORK.
+                                                     XI.
+                                                                                     "
+     A u \. 15.   A   lamp chimney makes a fine piece of " how we breathe               apparatus, and,
+with   a long jet-tube, can be used       for a  " vacuum
+                 fountain."
+                      Inferences.     1. Do we " draw in "
+                 air through the nose or mouth when we
+                 breathe, or simply enlarge our chest
+                 cavity and let nature do the rest?
+                 2. Do you think there is any such
+                 thing as suction ?
+                      Aux. 16. Explain       the  working
+                 of a bellows for blowing the fire.
+   Aux. is.           Aux.  1 7.   Fasten the long rub
+ber tube to a hot^water bag (see Aux. 6), place
+                                                                                                  =D
+                                                                               Aux. 16.
+weights of 50 or 100 pounds upon the bag, and
+blow through the tube.          If  the bag is large enough, you can sit upon it, and raise your
+self with your own breath.            For raising a large dictionary, or even a stack of them, a
+tight paper bag will answer, but it is very difficult to get it fastened air-tight around the
+                                                                    tube. To do so, connect them
+                                                                    by means     of    the   Apparatus,
+                                                                    around open end of which the
+                                                                    mouth of bag is tightly fastened.
+                                                                         This experiment       is  some
+                                                                    times published as a      trick, and
+                                                                    is  called " The      Power   of the
+                                                                    Breath."     But    the  " power of
+                             Aux.                                                " is
+                                    17.                             the   breath         only about an
+ounce.      With   a properly constructed apparatus, however, a man can, with his breath,
+lift an ox.     Compare this principle      with that of  the water-press,   Uxp. 28 and Aux.     9.
+
+                                                      AUXILIARY WORK.
+                                                                        X.
+       Aux. 13. Half fill                the larger test-tube            with water, and place the smaller one in                                 it,
+the bottom touching the water.                              Taking hold of the larger one, invert                       them.          If       they
+are     of correct relative size, the                       smaller will not fall out, but will                         rise     inside          the
+larger to the top.
+       Inference. Why?
+       Note. — Aux.     14    need        not    be tried until         after the first Experiment on
+sheet   XI   has been performed.
+       Aux. 14.     A    fine   " suction " or lifting pump                        is   easily made with
+a    straight lamp chimney.                     A   marble and      a    large shot make the best
+and most       interesting          as   well       as the    cheapest       valves.         The shot will
+                                                                                                                                                <_>
+rise an inch or two with the water when the piston                                   is   pushed rapidly
+down, and fall back, perhaps not over the hole                                 ;   but when the piston
+starts upward,      it   gets into place instantly, making                           a   very interesting
+                              experiment in itself.                     The piston should be made                               Aux. 13.
+                              of    a     rubber stopper with two holes,                       and should
+                              work very loosely — in fact                      it    should not pump water without first
+                              being primed;                  then   it       works      so   easily that           there    is   no danger
+                              of breaking anything.                       If   made       of wood, the piston rod                     is   easily
+          n                   pinned            into one       hole of the stopper                      of glass rod, heat                        in
+                                                                                               ;   if                                       it
+                              the Bunsen lamp                  till soft, then crowd            the ends to produce the bulge
+                              which keeps the stopper from slipping up                                  ;   and by heating the end
+                              and pressing             it    against something hard, a knob                        is   made      upon the
+               ds
+                              end which can be forced easily through the hole in rubber stopper.
+                              Treat           the upper end in the same way and insert the piston from
+                              below.            It    should go in tightly at the end, which                               is   generally         a
+                              little smaller than               the rest of the chimney.                    The lower stopper may
+                              be either rubber or cork, and the tube should not reach quite through
+                              it.        If   cork     is    used, make        the hole from the small end so that its
+                              edges may not be torn, in which case the valve                                   is   imperfect.             If   you
+                              are not an expert in digging                         holes in glass, though            it    is   easily done,
+                              the spout may be omitted, and the water allowed to run over the top.
+         Aux. 14.
+                              With            the spout, however, the experiment                         is   much more               striking.
+Fill    the Apparatus, or a bottle, with water, insert the pump-tube through the stopper,
+and plug the other holes.                       Work the piston up                 and down.
+    Inferences.     What happens
+                         1.              Why do you not pump water now
+                                                        ?      2.                 Remove                                   ?     3.
+one plug from the stopper, work the piston rod, and explain every step of the experiment.
+4. Could you pump water from any cistern that was air tight      Is    proper to say that      ?    5.        it
+the water   "sucked up," or to call a pump a "suction" pump?
+              is                                                      What forces     up?                     6.                        it
+7.    What produces the necessary conditions                        ?
+                                                                                                                                                        /"
+
+NOTES.
+                           ELEMENTARY              PHYSICAL SCIENCE.
+                                                      X.
+    Exp. 35.     Fill the Apparatus       with water and place a piece of card over the mouth.
+With    one hand hold the card       in place, while inverting          the   Apparatus  with the other
+over a dish, to catch the water        if  the experiment should          fail.
+Remove your hand from the card.               In   the same way repeat
+with disc of wood, metal (iron, zinc, or lead), and glass.                 Re
+peat, using a piece of wet cheese-cloth,            silk veiling, or wire
+netting.      Repeat    again, and uncap the            jet-tube    near the
+bottom     of the Apparatus.
+     Inference.    See  Aux.  13.
+    Exp. 36. Tie       sheet rubber over the mouth of the Appa
+ratus,   and   attach the long rubber tube to either side hole.                   Suck a little air from
+the Apparatus and pinch the rubber tube                to prevent its returning.        Turn    the mouth
+of the Apparatus in every direction.
+     Inferences.     1.  What more about air pressure does this teach you than did Exps.            34 and
+35 ?    2.  Compare with water pressure.         3. What force causes it ?
+                                  Exp. 37. Use your hand instead of the sheet rubber, and
+                             suck out all the air you can. Turn your hand over and in every
+                             direction.      If  the experiment is well done,        the Apparatus     will
+                             not fall off.      You   can hardly     pull it off.
+                                   Inference. Why           ?
+                                  Exp. 38. Suck          the air from the small bottle, and stick     it  to
+                             the upper lip, or else         try the next experiment instead.
+                                  Exp. 39. Wet          a jet-tube rubber cap, squeeze       it with your
+                             fingers or teeth, and press the tongue against the open end.                 If
+                             well done, you cannot shake it off.
+                                  Inference. Why          ?
+                                  Exp. 40. Fill       the Apparatus with water, and         tightly insert
+  Exp. 41.
+                             the stopper with all the holes open, after which plug them with
+the shot.     Though     the stopper may be easily twisted around in the Apparatus, it is
+pulled out with great difficulty.
+      Inference. Why       ?
+     Exp. 41. Wet the inside of       the tube and wrapping on the piston rod.                Pull up   the
+piston.
+      Inference. Why       does water follow it in the tube ?
+
+NOTES.
+                                              AUXILIARY WORK.
+                                                              IX.
+   Aux. lO. The rubber bulb of                      an atomizer, found at drug or rubber stores, makes                           a
+valuable addition         to your          apparatus, increasing              the     beauty and instructiveness                of
+several    experiments in air.              Attach it    to the rubber tube in               Exp.    32, and   it   represents
+the pump on the deck of a wrecking                       vessel, pumping              air down to the workmen in a.
+diving-bell.
+   Aux. 11. Even if you                are not provided with an air-pump and delicate scales,                              it   is
+not necessary      to take for granted that air has weight.                            If   you have strong lungs, the
+following Apparatus will show it clearly                  ;   and   if you     have not, you should practice               until
+                                                                                              you have, for kind Nature
+                                               |                                              has    given     you      a pump
+                                     |")
+                                                                         h*                   good enough for any nec
+                                                                                              essary    experiment         with
+                                                                                              air, even that of finding
+                                                                                              its exact weight, which at
+                                                                                              the proper time we shall
+                                                                                              try   to do.
+                                       Acx.   11.                                                   Suspend in       the   win
+                                                                                              dow   a   meter rod or yard
+stick by   a   screw-hook or eye, in the center.                    Drive     a   tack into each end, on which hang
+quart or larger bottles, one being tightly fitted with                            a   stopper,   glass tube, and rubber
+tube    with plug in         end.      Then pour
+shot, sand, or water into the open bot
+tle until    it   balances    the      other, with
+bottoms    just above    the window-sill.            A
+wire rider easily slid along the stick
+will   enable you to get an exact balance.
+Suck      all the air you           can     from the
+plugged bottle, resting several times,
+and replace plug.
+       Inference. Why        does the other bot
+                                                                                             Aux. 12.
+tle now rest upon the window-sill             ?
+       Aux. 12. Place     a   strip of thin board about two feet long on the table, with half its
+length projecting over the edge.                    Over the portion on the table lay smoothly several
+thicknesses of newspaper, full page size.                      Strike the projecting end                as   hard   a   blow    as
+you can, and       if   the blow       is   not followed by         a   push, you cannot knock                 the board off
+the table.
+   Inference.
+                                                                                                                                     -
+
+NOTES.
+                                ELEMENTARY PHYSICAL SCIENCE.
+                                                                  IX.
+   Exp. 29. Plug every hole in the Apparatus and all but                                    one in the stopper            ;   in this
+insert the funnel, and fill it with water.
+     Exp. 30. With            the bent tube             in the        side    of the
+Apparatus,      opening         under      water         in a dish, fill the
+funnel with water.
+     Exp. 31. Float            a cork      on     the        water, invert          the
+Apparatus or a tumbler over                it,   and press        it   well down
+into the water.
+     Inferences.        1.    What fact about air do these three ex
+periments     teach you?         2.Compare with the first learned
+about water.                                                                                    Exp. 29.              Exp. 30.
+     Exp. 32. Push            the inverted Apparatus down into the water.                              Blow gently through
+the tube, and you have           a    miniature diving-bell.
+     Inference. Why         does not the upward pressure of the
+water force   it   up into the Apparatus    See Aux. 10.
+                                                    ?
+     Exp. 33. Plug every hole in                    the Apparatus             (or   use
+a large bottle) and every hole but one, in the stopper                                 ;
+in this insert  short glass tube, and attach to
+                   a                            a short                 it
+rubber tube with plug in end.                    Balance the Apparatus
+or bottle on scales, then remove                    the plug and suck out
+all the air you can.             Pinch       the        tube    to prevent           air
+entering whenever you stop to rest your                               throat,       and
+stop sucking when you can exhaust no more air                                  ;    also
+be   careful not to let water from your mouth enter the
+                          tube, as     a   few drops might spoil the
+                          experiment;            replace        the     plug,       and
+                          return the Apparatus or bottle to its
+                          scale-pan.        If    the scales          are delicate                         Exp. 32.
+                          enough, and you have performed the experiment well,                                    it   will weigh
+                          less than before.
+                                Inferences.             1.   Why   ?     2.    Compare with this the second fact learned
+                          about water.           For
+                                             cheap                    but     excellent home-made apparatus for this
+                          experiment see Aux. 11.
+                                Exp. 34. Insert                the stopper         tightly in    the   Apparatus, pour mer
+cury   into    the     hole    partly      filled       by the        rattan       plug,   and     suck    the   air from        the
+Apparatus.    (Do not allow mercury to touch gold ring.)               a
+     Inference. What causes the mercury shower? See Aux. 12.
+
+  NOTES.
+-
+
+NOTES.
+                                ELEMENTARY PHYSICAL SCIENCE.
+                                                          XII.
+     Exp. 46. Connect two Apparatuses, or                     an Apparatus
+and a tin can, by means of a rubber tube.                     Put   a stopper
+in   one    and    fill   tbe other     with    water.     Fill  both, put a
+stopper in one, and empty the water from the other.
+     Inference. Why           does not the water run       in either  case ?
+     Exp. 47. With             the bottom hole open, lower             the in
+verted Apparatus into             a  dish of water till it is full, then
+plug the hole and           lift it nearly    out.    While full of water
+and    held with        the mouth only under             water, uncap       the
+side tube near the bottom.
+                                                                                                Exp. 47
+     Inferences.         Compare with the lever.           1. Where are the
+arms ? 2. What pressure on one arm and not on the other causes the motion ?                              3.  After
+uncapping the tube, what presses             alike on each arm that did not before ?
+     Exp. 48.       With mouth          and bottom      hole open      and the      Apparatus    erect,   sink it
+beneath      the surface       in  a dish   of water, and when filled, cover the mouth with a card,
+                                             held firmly in place.      Then lift it nearly out of the water.
+                                                 Inferences.       1.  Does the water press up against the
+                                             card ?   2.  If   so, which    presses   the harder, water under
+                                             neath or air on top ? Be sure to write your opinion before
+                                             trying the next experiment.            Be careful, for even older
+                                             pupils frequently        make a mistake in answering             this
+                                             question, Avhen not allowed to find out by experiment.
+                                                 Exp. 49. Repeat         the last experi
+                                             ment, using, instead of the card, sheet
+                                             rubber, tying it firmly over the mouth
+                                             of the Apparatus.
+                                                  Inferences.       1. Did     you answer
+                                             the   question in Exp. 48 correctly?
+                                             2. Explain this one as fully as pos
+                                             sible, remembering that the elasticity of
+                                             the rubber is one force operating to pro
+                  Exp. 4S.                   duce the balance. 3. Compare with lever.
+     Exp. 50. Fill          the long      jet-tube   under water,       and with      finger
+                                                                                                  Exp. 50.
+pressing against the larger end, lift it out of water.                   Raise the finger
+a  trifle and replace it quickly.             Repeat till the water has nearly all dropped              from the
+tube.      Try   the tube with large opening at each end.                  Try larger    tubes.
+     Inferences.         1. Explain       carefully.    2. Explain also why the water does not all run
+out.    3.  If  the water did not adhere to the glass, would or would it not all run out?
+
+NOTES.
+                                                                AUXILIARY WORK.
+                                                                               XII.
+        Note. — Make             no use of Auxs. 25-30 until they are referred to in the regular work.
+        Aux. 25. This                  is a very                striking and easily         made        form of Hero's        Fountain,         in
+which a jet of water rises higher than its source.                                                The upper part is the top of a
+                     large bottle          ;    the central piece is the longer part of a lamp chimney,                                like the
+                     one used in            Aux.          1 ;    the lower part is the            Apparatus.        The lamp chimney
+                     is easily cut at the narrow place by the aid of a triangular                                      file and the gas
+                     glass-cutter.                  All    the    glass   tubes     are open at both ends, c being a jet-tube
+                     passing through                      the upper stopper, and nearly reaching the lower.                                  Two
+                     corks — or,           better,         rubber stoppers — may                 be used     where one is illustrated,
+                     if   the same one does not fit both glass pieces                              tightly enough.          For   the bottom
+                     piece       a large, heavy bottle is preferable to the Apparatus.                                      This apparatus
+                     may be made with one piece less of glass, by using the long neck and a part
+                     of the body of a wine bottle, together with two rubber stoppers, thus dis
+                     pensing with the lamp chimney                             ;   made    in this manner, however, it is              a short
+                     lived fountain, the reservoir being much too small.                                      Of   course,    if well       made,
+                     this apparatus never needs taking apart                                ;   for, by inverting     it,   the reservoir       is
+                     filled and the surplus of water in the bottle                                is   discharged through the jet-tube.
+                     If   the tubes do not discharge freely,                          a    little careful shaking of         the apparatus
+                     will    make them do so.
+                         Infekenck. Explain every step both of the working of the fountain and the
+     Aux. 25.        process of refilling the reservoir.
+        Aux. 26. This                 is   an intermittent            fountain in which the water rises in spurts higher
+than its source, some of                        it    passing several times from one bottle to the other before the
+action finally ceases.                         If   the apparatus be carefully constructed, the water strikes the
+bottom of the upper bottle with considerable force at each throw.                                                  The foun- ^gsz
+tain never requires readjusting,                                   and to prepare           it    for   a   second period of
+activity        it   is   necessary            only to invert the apparatus until water runs into the                                 I*1
+lower bottle,               as    shown in the illustration.                          It   may be constructed of two
+Apparatuses               or, better, of                  two large bottles, one or two corks or rubber
+stoppers,        and        two jet>tubes, the bent one having                             a    smaller opening than the
+other.          The       small funnel                    at    the upper end of the straight tube                    is    not   a
+necessity, but it                is   easier to construct                 it   thus (see        Auxiliary Work,      sheet    V)       aux.   26.
+than to get the tubes accurately enough aligned to work well without.
+         Inferences.    Explain  1.                    the condition of the air in each bottle before action begins.
+        What force produces the                      first change in atmospheric conditions, and what    the change          is
+3. 2.
+                                                                                                                                                ?
+        What other force comes                       into play, and what are its results, both visible and invisible                                ?
+4.      Explain what occurs and                      why, when the apparatus                is   inverted.
+
+NOTES.
+                                ELEMENTARY PHYSICAL SCIENCE.
+                                                           XIII.
+     Exp. 51. Use all            the   different sized      tubes    you have     as  " droppers."    Also,    wet
+them     inside and hold them with one end in water and the other open.
+     Inferences.        1.   How     does   the length of the water column compare with the size of
+the tube?       2.  Is it   not the same      force that makes a postage stamp stick to the envelope or
+chalk stick      to the blackboard ? 3. Are you not using the same force when answering these
+questions in your books ? 4. Give other examples.                     We call the force which causes particles
+not alike to stick to each other, adhesion, but if the particles which stick together are alike,
+we call the force cohesion.             5. Which force do you overcome when you break a stick or
+a string ?      6. Do both of these forces act in holding water in a glass tube ?                       In tubes,
+especially when they are small, whether glass or not, we call the force capillary attraction,
+from the Latin word capillus, meaning hair. 7. Now, using the word cohesion, explain the
+difference between solids (such as glass, wood, iron, etc.) and liquids, (such as water, oil,
+etc.).    8. When water becomes              a solid, or ice, has it more or less cohesion ?             9. What
+force appears to be the opposite of cohesion ? 10. What changes ice to water ? See Aux. 18.
+     Exp. 52. With          a clean disc of glass and one of metal            (or two of glass),   a match, and
+                                                two rubber bands, construct the apparatus illustrated.
+                                                Immerse in water to wet the inner surfaces                  of the
+                                                plates, then stand in shallow water.
+                                                      Inferences. 1. Illustrate with a drawing, and explain.
+                                                2.   Look also for a result of the
+                                                same force in a tumbler            of
+                                                water.
+                                                       Exp. 53.     Place   a   tube
+                                                in the mercury in the small
+                                                bottle.      Also   use the     tube
+                   Exp. 52.
+                                                with mercury as        a dropper.
+     Inferences.        1.   Illustrate with drawings.           2. Compare the
+two forces in this case with the same in case of water and glass.                                Exp. 53.
+     Exp. 54. Fill         the equal-armed U-tube with water              ; with the finger cover one end,
+                          invert, and holding it perpendicularly,              remove the finger.
+                                Inferences.       1.   Infer why   the water does not fall out. 2. Compare
+^iP                       with wooden lever. 3.           If you  consider  the surfaces of the water the ends
+                          of the lever arms, what presses down alike on each ? 4. What presses
+                          up alike on each ? 5. Which force is the greater ? 6. Name all the
+                          forces you can that are operating in this experiment.             7. Do they all assist
+                          in holding water in the tube or not ? Repeat the experiment, using U-tube
+                          with unequal arms.          8. Infer, and compare with lever, explaining as fully as
+                          possible.    Repeat    again   with first U-tube, inclining it till the water runs out.
+                          9. Where is the fulcrum of these water levers always located ? 10. Draw
+       Exp. 64.           diagrams of levers representing each of the above conditions.
+
+NOTES.
+                                           AUXILIARY WORK.
+                                                            XIII.
+      An  v.   18. Place a large sponge in a plate half filled with water.                        Note what takes
+place.      With    a few drops of       ink or bluing, color           a  little water in    a shallow   dish and
+stand a lump of sugar in it.              Note the effect.           Stand a piece of cane, rattan, or black
+ board crayon, in a        little turpentine or        kerosene      oil, and after an hour or two, according
+ to the length of the piece used, hold a lighted match to the upper end.
+     Inference.         Explain the use of blotting-paper,                candle- and lamp-wicks;      and mention
+ any  other   similar cases you can think of.
+     Notk. — Auxs.       27 and 28 should   not be    used   until referred to in the regular work.
+     Aux. 27. This           is an intermittent fountain made of an ordinarily shaped quart bottle,
+the top of another used            simply      as   a stand for the first, the bottom            of a
+larger bottle, a glass fruit jar, and pieces of tubing and corks.                        For greater
+stability,    the   apparatus-tube         <?, which       is bevelled at both ends, should
+touch the dish at its lower, and the cork at its upper end.                         It needs not be
+so long as      shown in the cut       ;  it would better         be  short enough to allow the
+bottle to rest upon its stand, into which it is firmly fitted with a cork.
+Tube a is the one that furnishes the intermittent stream, and                           if the appa
+ratus be adjusted with care, another tube                        like it    may    be fitted to the
+opposite     side of the bottle.         Without very careful adjustment, however, air
+will enter     one    tube, and thus prevent              an intermittent        flow from either    ;
+hence you would better make the fountain                      with    a single tube at first, then
+add the second         if desired.    A    cap is placed upon this tube while the bottle
+is being filled and corked.           Tube      b  leading from the large dish to the jar
+below furnishes a steady stream,                  and    has a smaller opening than             a; if
+small    enough, the          fountain will run for            an hour or more,         intermitting
+perhaps      every other minute.              If  the holes in the bottles used must be
+drilled, have the one in this dish at or near the center, but                          if you   make
+                                                                                                          Aux. 27.
+them with files, the easiest way is to make the hole in this dish at the edge
+like  the one for tube a, and make               b   with a double bend leading into the jar through
+a notch filed in the edge of its mouth.                  If  large, the stand may also need notching.
+     Aux. 28. This might            be called a fountain sponge.               The principle of its action is the
+                   same as that of the         common fountain ink-well. The lower halves of two
+                   bottles are connected by              a  short piece of tubing.           In  one of the bottle-
+                   bottoms is placed the sponge; the other is placed like a cap over the mouth
+                   of a bottle filled with water, which is then inverted.                       The sponge    keeps
+                   moist for weeks or months, according to size of bottle and condition of
+                   the atmosphere.           The water escapes only by evaporation from the sponge,
+  Aux. 28.         if  the latter is not removed from its dish.                  It  may be used as a pen wiper,
+or for moistening the gummed surfaces of stamps                             and envelopes.
+
+'
+  s
+
+                           ELEMENTARY              PHYSICAL SCIENCE.
+                                                   VIII.
+    Exp. 26. Arrange         the Apparatus     the same as in      Exp. 25, but insert a short jet-tube
+in one hole of the stopper, or in a side hole.                With a jet-tube in the stopper, hold
+the palm of one hand about two feet above              ; seize the piston rod at a point where the
+plunger end, when pushed in, will not           cpuite   reach   the bottom of the       Apparatus; then
+push   it down suddenly.
+    Exp. 27. Withdraw          the piston to the top of the tube, measure               the length of the
+tube thus filled with water, and also the            depth of the water in the Apparatus.            Push
+the piston to the      bottom of the tube, and find how much the water
+from the tube increases the depth of water in the Apparatus.                   If  the
+piston is not air-tight, fill the tube and the Apparatus                 with water,
+cork the tube, then pour nearly all the water from the Apparatus,
+and measure.       Uncork and      measure again.
+     Inferences.     1.  The Apparatus      is how many times the size of the
+tube? 2. With     one pound pressure on the surface of water         in the tube, how
+many would be required on the water surface in the Apparatus                   to bal
+ance ? See Aux. 8, sheet VII.
+    Exp. 28.     Fill  both the Apparatus and the tube with water,              as   in
+Exp.    20, and tie sheet rubber over the mouth.            Place weights of four
+                                                                                                Exp. 27.
+or five pounds on the Apparatus, and blow into the tube.
+    Inferences.      1.  Why     can you lift so much with so little force ?               2. How would
+you determine      the  number     of pouuds lifted by au ounce of force applied through the
+tube?     3. Compare with lever.
+    Note. — By blowing through      the tube you can apply only about an ounce of pressure.     See Aux. 9,
+sheet  VIL
+    While performing        the experiments on these seven sheets, you have learned something
+about the so-called physical properties of water.               You   can also mention one force that
+has a great deal to do with these           properties.     There are other forces always operating
+which you will       discover    in connection with         the   study of the      next subject — Air.
+Before beginning the study of air it would be advisable that you state again, clearly
+and briefly   as  possible,   all you have discovered about water.
+
+NOTES.
+
+NOTES.
+                               ELEMENTARY                PHYSICAL SCIENCE.
+                                                          VII.
+     Exp. 21. Lower and            raise the stopper alternately,
+and   see   if you  can   tell with your eyes shut when it
+enters or leaves the water.             Try  also the wooden ball.
+     Inference. Explain          as   fully and carefully       as you
+can why the stopper when under water seems                    to weigh
+less, and why the ball floats.
+     Note. — Later in     our course we shall have         several very
+interesting experiments      similar to this one; but you ought to
+see clearly now what causes this buoyant force of water, as it is
+called.   Is a fish or a stone as heavy in water as it is out?
+Explain.
+     Exp. 22. Push          the    Apparatus      along the       table
+with your pencil.                                                               Exp. 21.
+     Inference. In       what one direction only is the pressure which your hand applies               to the
+                                                   pencil transmitted to the Apparatus ?
+                                                        Exp. 23. With       the  Apparatus   full of water,
+                                                   remove the jet-caps,     and tap gently on the rubber
+                                                   with your fingers.
+                                                        Inference.     Compare with Exp. 22, and explain the
+                                                   difference   between solids and liquids in transmitting
+                    Exp. 23.                       applied pressure.
+     Exp. 24. With         the     Apparatus      full of water,      step to an open    window     and blow
+through the        rubber tube.          De
+termine by experiment whether
+you     have    to blow any harder
+to raise several jets of water to
+a given       height    than     to    raise
+one.     See   Aux.   7.
+     Exp. 25.      Fill the   Apparatus
+with water, insert         the    stopper
+tightly with one hole open, and
+measure      the part of the stopper
+above the glass.       Carefully push                             exp. 24.                 Exp. 25.
+                                      "
+the   piston rod or " plunger            through    the open hole to the bottom, and again measure.
+The measurements          should     be made     with care.
+
+NOTES.
+                                          AUXILIARY WORK.
+                                                        VII.
+     Aux.   7.  A   fine auxiliary    piece   may be made        by tying sheet rubber over the large
+end of a lamp chimney.             Fill  the latter     with water, and insert the stopper or a cork
+with tubes,    as  illustrated, and press on the rubber.
+     Aux. 8. (Study this figure, if not provided with the
+apparatus.)       Connect a tube with piston to two others
+of the same size,      as  illustrated.    With     the water at equal
+depth in each, insert the piston in the middle one, and
+transfer the water to the other two.
+     Inference. How much pressure on the surface of the
+water in each    will balance one unit on the surface of water
+in middle tube    ?    Does the amount of pressure transferred to
+each side tube bear the same relation         to that on the piston, as
+the amount of water transferred bears to that at first in the
+middle   tube ? What things are in the same relation to each                   Aux. 7.                Aux. 8.
+other as applied and transmitted pressure ? Did you make
+them so in inferences to Exp. 27 ?
+     Aux. 9. This picture illustrates           the   " hydrostatic " or
+water press, a machine which enables               one with but     little
+force to exert great pressure.          A pump       stands in an open
+tank of water.          In  the   pump, a little     above the level of
+the water in the tank, is a closed door-shaped valve, which
+opens    upward      when the      piston   is pulled up, allowing
+                                                                                         Aux. 9.
+water to enter and fill the pump.                Why it     does so, you
+probably cannot        see   at present, but you will when you study the next subject                 — Air.
+In  the   pipe connecting the pump and the press is a valve opening towards the latter.
+When the piston of the pump is pushed down, of course the pump-valve closes, and                           as
+the water cannot be pushed out the way                 it came in,    it goes through the other door to
+the press.
+     Inferences.       1. Upon what fact about liquids does the great power of this press depend ?
+2.  Compare it with the lever, and point out all the resemblances you can.                   3.  If the force
+exerted by the press is one hundred times as great as that applied to the pump, what two
+measurements are to each other as 100 to 1 ? 4.              If you consider this a "water lever," which
+of the measurements must         be considered as the long arm,       which the short  ?
+
+NOTES.
+                            ELEMENTARY PHYSICAL SCIENCE.
+                                                       VI.
+     Exp. 18.    If  provided with auxiliary          apparatus No. 5 (see page 4), perform Exps.
+18 and 19 with it.      The Apparatus is not tall enough to make Exp. 18 very striking, but
+for 19 it does very well.        Suspend the Apparatus full of water just above a window-sill,
+                     Exp.  18.                                              Exp. 19.
+by as long a string as possible.          Make a mark under the edge of it, or place the edge
+of a pan under that of Apparatus.                Steadying it with one hand, carefully remove the
+jetaube from the lower side hole, and let it go at the same time.
+     Inference. Why        does the Apparatus swing away from the jet of water ?
+     Exp. 19. With       the Apparatus        still hanging in   the window, place the elbow tube in
+the lower side hole and fill with water.
+     Inference. At exactly          what   point is the pres
+sure that causes   it to rotate   applied ?
+     Exp. 20.      Fill  the Apparatus and rubber tube
+with water.     To fill  the latter, let    it lie on the table,
+and pour water into the Apparatus;              then, when the
+water begins to run out of the tube, plug the end
+with capped jet-tube.          When     the Apparatus      is as
+full  as possible, tie the piece of sheet rubber over the
+mouth, and place a weight of a pound or more
+upon it.     Insert    a funnel      in place of the       plug.
+Pour water into      the funnel (see       note    to Aux. 6),
+and raise it to the length of the tube.
+     Inference. Explain        why so little water raises so
+heavy a weight       See  Aux.   6.                                             Exp. 20.
+
+NOTES.
+                                                          AUXILIARY WORK.
+                                                                           VI.
+      Aux. 5. (See cut                on sheet            V.)        Exps. 18 and 19 are much better performed with                               a
+tall bottle.         A quart ink or wine bottle                            does very well            ;   a hole is much more             easily
+made with a file in the edge than in the side of a bottle, and does just as well for these
+experiments.               Still better and               cheaper is a tin tube               a   foot or more long, corked at the
+bottom,          and provided with a wire bail.                           Make the holes just above the cork, and insert
+tubes       from the pupils' sets.                 If       the class      is large,        it    is better to have a piece           for each
+experiment and but one piece in a window to which pupils go in turn to inspect it.
+Exp.    19        may be done in a variety of ways, thus                                      :   with both tubes horizontal              in      a
+large tin pan to catch the water                              ;     with the pan nearly full of water, the tubes sub
+merged       ;    with    one tube       horizontal, the other at any
+angle   ;    with both tubes at different angles, imitating
+a lawn fountain.
+      No other auxiliary                apparatus is worth so much
+in proportion to its cost              as   this      ;   while performing Exp.
+19,   Aux. apparatus              4 may be combined                            with Aux.
+apparatus 5 by holding its jet-tube so that                                    it will play
+into the top of it, thus prolonging the experiment.
+      Aux. 6. Procure                a three or            four quart hot-water
+bag.*        Attach to it            several       feet of rubber tubing by
+means of a perforated cork and a short piece of glass
+tube.        Place the bag upon the floor with a piece of
+board over          it,   on which stand or place heavy weights                              ;
+then pour water into the funnel at the end of the tube.
+      Note. — To          make   a   funuel;     if   gas     is   available    with which
+to cut glass (see sheet 4), use the top of bottle.              a               With   a   rat-
+tail file make a hole in a cork that fits tightly,         insert                and
+                                                                                                                    Aux. 6.
+one of the short glass tubes.  Or take the pressed tin cover of
+the baking powder can used in Exp. 16, and make a hole in the center                                       (see   Aux. 1), pushing the tin
+outward, and fit glass tube to  with    short piece of rubber tube.
+                                            it            a
+      *A two-quart        hag costs from eighty cents to one dollar, according to the quality.                    A three-quart   bag, which is   a
+much better size lor the experiment, costs about                    twenty-five cents more.
+
+NOTES.
+                              ELEMENTARY PHYSICAL SCIENCE.
+                                                         III.
+     See  Auxiliary     1, page     4.   If  not provided    with the apparatus, study the picture.
+     Exp. 8. Insert       a  short jet-tube into the bottom hole of the
+Apparatus, with small opening inside, and press                   it well down
+into a jar or pail of water.
+      Inference. In which          direction   does the water press ?
+     Exp. 9. With bottom hole                open, place     a  card over the
+mouth of the Apparatus, invert, and press it down into jar
+of water.      Repeat, using a disc of metal (iron, zinc, or lead)
+                                                                                                    Exp. 8.
+and also one of glass. The metal and glass discs must be held
+firmly against the Apparatus             till immersed two or       three inches.     If  your jar is not large
+enough to admit the hand, keep the disc in place by means of a string or wire passed
+under it, the ends being held in the hand.                  As   the water leaks in      until  the disc finally
+falls, compare its height inside and outside of the Apparatus.
+      Inferences.      1. Why does a heavy disc fall sooner than a light              one ?    2. Compare   with
+ the lever.   3.  What force on one arm is always the same                     j
+ if the Apparatus is pushed to the same depth ? 4. What                      /
+ two forces on the other arm are not the same ? 5. When                     (^
+ are the two less, and when are they greater, than the one
+ force ?
+      Exp. 10. Can you illustrate with                 marbles    or by
+ a drawing, how the force of gravity                 causes    water to
+ press   upward     as   well   as   downward and sideways?
+      Exp. 11.      Insert the three tubes in the stopper              as
+illustrated,     with   the lower openings all at the              same
+                           level.      Immerse the lower ends of
+                           the tubes      in water and notice in
+                           which direction the water must press
+                           in  order      to   enter   each;    observe
+                                                                                          Exp- 9-
+                           height to which water rises in each.
+                           Be sure that the upper ends of the tubes are not stopped with water.
+                               Inference.        Compare pressure in all directions at the same depth.
+                                                LESSON IN REASONING.
+        Exp. 11.
+                                Compare Exp. 11 with Exp.               7 and    Aux.  1.   1.  Tell what you
+ can without      more experiments about downward                  pressure   at different depths.      2.  How
+ does upward pressure          two inches below the surface compare with that one inch below                     ?
+
+NOTES.
+                  AUXILIARY APPARATUS AND EXPERIMENTS.
+                                                    III.
+     It is very desirable that you make the auxiliary pieces of apparatus, or at least some
+of them, and perform the experiments.               But if you        do not, a careful study of them
+when ever they are referred to in your regular                  lessons,   will doubtless    be   more    or
+less helpful.
+     Auxiliary    1.  This apparatus is      more easily made with a tin tube than with a lamp
+chimney.       Obtain a tube of any size or length       ; a piece of speaking tube about 15 inches
+long will answer.       Cork    the lower eud, and stick        it in  a hole bored in a block of wood.
+                          The latter    serves as a stand.       With    an awl or a sharp     nail, punch
+                          three holes equally distant from each other, as in the              illustration.
+                          Enlarge     them   with rat-tail file, twisting it and pushing the edge
+                          of the   tin inwards, so as to make a lip or " burr." Make the holes
+                          equal in size to those in the "100 in          1 Apparatus."
+                               If desired,  repeat   Exp.   7, using jet-tubes from pupils' set.        For
+                          showing steady side pressure and its exact law, insert the U-tubes
+                          with bends each half full of mercury             ; then fill tube with water,
+                          and observe      not only the general effect upon the mercury, but
+                          measure the amount raised           in  each tube and compare         with corre
+                          sponding depths of water.
+                               Infer exact law of side pressure. 1. Can you see a lever and its
+                          weights inside each tube ? 2. What constitutes the lever and what the
+                          weight upon each arm ? 3. At what point in each tube is the fulcrum ?
+         Aux. 1.
+                               Note. — To avoid confining air in the tubes, pour in water until it runs into
+                          first tube, then carefully pour a little mercury into tube funnel. Treat the
+second tube the same way, then pour more mercury into first if necessary, etc. To make this experi
+ment of some aid to those not provided with the apparatus we have violated our general rule, which is
+to show the apparatus in condition for the experiment, and not during it.             In this case we have
+shown it in progress, as the pupil should, whenever he makes a drawing to illustrate an experiment.
+     Caution. — When handling       mercury, be careful not to allow it to come in contact with a gold
+ring, for the two metals will amalgamate, giving the ring the appearance of silver.         Should such an
+accident happen, heating the ring cautiously will drive off the mercury, but the gold will need
+reburnishing.
+
+                 A LETTER FROM THE AUTHOR TO THE PUPIL.
+My Dear Young Friend:
+      I want to talk with you a little before we begin work — or play — - 1 may                  as  well call
+it, for  tops, balls, and marbles    are by no means the most interesting things we use in this
+fascinating     scientific game.     That it is    as   enjoyable    as  play to children of twelve to
+fourteen years      I  know, because    the pupils     in my Boston school, of their own accord,
+frequently     use their recess hour     for it, and often     come before school and on Saturdays
+in order to    do more experimenting        than their regular horn's permit.           That it   is the very
+ best way to learn about the world we live in, all the best teachers believe, because each
+ pupil is learning directly from        a better teacher than any          living, — Nature.          Do you
+ remember how Longfellow says that the                 great and good Professor            Agassiz learned
+ his lessons?
+                                " And Nature, the old nurse, took
+                                     The child upon her knee,
+                                           ' Here Ls a
+                                  Saying,              story-book
+                                     Thy Father has written for thee.'
+                                " And he wandered away and away,
+                                     With Nature, the dear old nurse,
+                                  Who sang to him night and day
+                                     The rhymes of the universe.
+                                " And whenever the way seemed long,
+                                     Or his heart began to fail,
+                                  She would sing a more wonderful song,
+                                     Or tell a more marvellous tale."
+      Now   I  am going to ask you to adopt a motto that                  I   write upon my blackboard
+ the first day of every school year, viz.       :
+                                                  " Nature      is our teacher     ; all the knowledge we
+ possess has come through        the patient study         of her laws."        Then, whenever you are
+ tempted to ask your school teacher anything about Physical                    Science,   I  would ask you
+ to stop   and think, " Why, Nature           is my teacher     ;  I must ask her."        " But,"   say you,
+ "  I  don't know how."       That is true, and that       is the reason     I have arranged this series
+ of questions (experiments) for you in order to tell you how to ask them.                     If  you do  as I
+  direct, you will not only       be  greatly interested and instructed               by the answers      you
+ obtain, but what is far better, you will learn how to put questions yourself.                      Then you
+ will continue through life studying Nature wherever you                      are.    You will     become   an
+ original investigator, and possibly         a  discoverer and an inventor.              All  the great dis
+ coveries    and inventions     were     made     by men      who first learned         how    to   put  their
+ questions to this      Great Teacher and interpret               the   answers.
+
+                                            ELEMENTARY                                    PHYSICAL SCIENCE.                                     ¦
+                                                                                               I.
+                                                                                 THE LEVER.
+                I i I l I I I i I i ' i I ' i l | i i l | i i i | | n l i i | l n j i i i | n i n i | i , i .. i !, i ¦ n i | i , i i n | i m | m i | , m | u i |
+                                                                      |                         |          |           |           |                              ^gpj^
+                                                                                                                                        [in. ur Arm.
+                                                                                             ~D~
+                                                                                          Fulcrum.
+     Apparatus. A             foot rule or similar stick; a dozen button dress-weights, nickels, cents, iron-washers,
+or anything convenient                for weights; a small piece of wood for a fulcrum. To economize time, the upper
+surface of the fulcrum should not be less than J inch wide, especially for young experimenters.                                                                         There is
+on the market a small rubber eraser of excellent size and shape for a fulcrum.                                                                It is a little more than an
+inch long, with each side \ inch wide.                                     "Button dress-weights," though a trifle more expensive than
+iron-washers, are more uniform in weight, and being of lead, may be easily trimmed.                                                                       Exact uniformity,
+though desirable, is not essential.
+     Directions. The                          best way to experiment                                 with your lever                      is to balance              it on the
+fulcrum, with its central mark over the center of the block.                                                                               Hold it with your left
+hand near the end of its left arm,                                              while placing, — first,                        the weights               as     indicated in
+diagram, then the balancing weights.                                                  If     you make               no mistake, and place the centers
+of the weights          as     nearly              as     you can over the correct lines, the lever                                                will      balance      after
+your hand is removed.
+     Diagram       1     (on page opposite) represents the lever, as illustrated above, with one
+weight on each arm 6 inches from the fulcrum. Find by experiment how many weights
+on right     arm       3 inches                from fulcrum will balance                                     one at the end of                      left     arm, and put
+the number in the proper place on diagram 2.
+     Continue in the same way                                      till you learn how to determine without experiment, then
+write the answers                   and test by experiments afterwards.                                                         If, after doing                 the first six
+or seven experiments, you cannot determine, make up some of your own                                                                                          till you    can   ;
+then finish the ones given.                                      If     you have              studied algebra, express each experiment in
+form of an equation with the sign = in place of the fulcrum.                                                                           Express in writing what
+you have discovered to be the principle of the lever.
+     Where should you place 4 weights on diagram 11 ? Where                                                                     3 more on diagram 12 ?
+     Problem       1.        Two boys are playing sea-saw on a plank balanced across a log. One is
+twice as heavy as the other.                                   Which should sit nearer the log, and how much ? Illustrate
+with picture or diagram.
+     Problem       2.        A      man uses a crowbar                            G feet long, and places a stone for a fulcrum 6 inches
+from the lower end. With                                100        pounds' pressure at the upper end, how much can he lift at
+the lower ? Illustrate.
+     Make up a few lever problems of your own and illustrate them.                                                                                  Mention           as many
+objects as you can                think of that illustrate                                  the principle of the lever.
+
+                         NOTES.
+           I
+        1 1=
+                           "IT
+                                              (   )
+       9 i    ' I  I I I    | I,   I      !     I     I      I
+                                       .(   )
+                           IT
+       4  -                      (   )
+                           IT
+              i
+                                        (   )
+       0 i      xz
+                           IT
+                                              U.
+                           IT
+                                                    c   j
+                           IT
+                                                           (   )
+                           TT
+                                                                 ( )
+                            U
+      10  c                                               _u_
+                           IT
+      il  i
+                            U
+             J-
+                           ¥
+      **?
+Pkob.  1.
+Prob.  2.
+Original Probs.
+
+      Now let me tell you how to study this course,                                    that it may afford you the most
+pleasure and profit.                    First. Perform every experiment in order.    Do not omit one
+because      it looks        so simple that you      think you know all about it. None of us knows all
+about anything.             Always experiment carefully and thoughtfully.
+                              Second.                                       If you work
+hurriedly, carelessly, or without watching to see everything that happens, and without
+thinking out for yourself the reason for         will do you little or no good. And of
+                                                                      it,   it
+course,     if   you must not            be      told ivhy anything happens, you should not tell your class
+mate and so deprive him of the pleasure and benefit of discovering for himself.                                                      Possibly
+you may perform                   an experiment              and not     see     the why of       it   at first;       if    so, give    it   a
+little careful thought, remember                          the what, and perhaps           the very next experiment will
+show you the why.                    If, however, two or            three experiments do not help you out of your
+difficulty, probably you have not done the previous work well enough, and would better
+review it. Third. When you see what an experiment teaches, you must tell   in your                                              it
+own language on paj)er. It will not do you half the good to give in spoken words                             it                                ;
+you must write it.                   For this purpose         we provide you with blank leaves.                              Number each
+inference       — that        is, what the experiment teaches you                       — and write          it    directly opposite,
+at the time you do the experiment.                            Your thought being chiefly on                    the experiment and
+what       it   teaches,         you will not express               it   in the very best language, now, without
+mistakes     ;    therefore          you should rewrite it.               Let    me    tell you our method, for                   it   is    the
+best we have               yet discovered.           After experimental work our pupils                            have        an hour for
+writing         the    lesson    ;   this they do on ruled note-books                     in the         form of         a     chapter on
+science.         Each       lesson     is   dated   ;   it   begins    at the top of         a   page and         is   written only on
+the    right or        else the        left hand        side (always the same), the other being                          left for correc
+tions.      The        experiment, observation, and inference                           are      given   ;   the       first    is   usually
+illustrated       with       a   small drawing.1
+      The pupils preserve                their books and at the end of the year                     it   is
+                                                                                                         a        good plan to have
+them bound.                Pupils prize       these books more           highly than any            others        in their libraries,
+for they are entirely of their own making.                               What     ask you
+                                                                                  I                    to do    is      one thing        that
+did       much towards the discipline                      of George Washington,                 for we are told upon good
+authority that "             he made his own school-books."
+      Hoping that you will                    do likewise          and meet with success through life,                       I    am your
+true friend and fellow-student,
+                                                                                                             F. H. BAILEY.
+      6   Marlboro Street, Boston,                Mass.
+   1   Suggestions           for Correcting                      look over the work, and with red pencil
+                                                     Books. After school         I
+mark the mistakes with such signs as                             sp. under word for mis-spelled
+                                                   gr. for grammatical error       ;                wrong or                    ;
+                                                                                                                                a
+unsuitable word or expression       marked underneath u.w. or u.ex.
+                                            is                            statement that ;   awrong, or that            is
+would better be reconsidered and rewritten,     inclosed in parenthesis and marked with an interrogation
+                                                              is
+point thus — (      The next day the pupils correct their mistakes, changing nothing on the written page
+                      )?
+but making their corrections directly opposite.      Then the next time the books are inspected,          all                           if
+corrections are satisfactorily made, an   (accepted)A    placed at the top of the page.
+                                                                         is
+
+  APPARATUS        FOR USE WITH BAILEY'S INDUC
+                        TIVE PHYSICS.
+     List of eighty-six pieces contained in each set of " ioo
+  in i Physical Science Apparatus," to accompany " Induc
+  tive Elementary    Physical Science."
+i
+t
+
+
+s
+
+    This book should be returned to
+the  Library on or before the last date
+stamped below.
+    A fine of five cents a day is incurred
+by retaining it beyond the specified
+time.
+    Please return promptly.
+
+Inductive elementary physical scien
+Cabot Science                 003441068
+  3 2044 091            956      722
+
