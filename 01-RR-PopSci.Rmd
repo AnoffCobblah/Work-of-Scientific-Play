@@ -133,15 +133,17 @@ We can then add up the values in SciLifeWordFlagdf to make a table of the freque
 
       PopSciFreqmat <- matrix(,ncol=9,nrow=1)
       files <- list.files(path = PopScidoclocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
-    for (z in 1:length(Categories)) {   
-      tempdf <- PopSciWordFlagdf[grep(Categories[z],PopSciWordFlagdf$Category),]
+    for (i in 1:length(files)) {
+      TempTextName <- gsub(paste0(PopScidoclocation,"/"),"",files[i]) #This grabs just the end of the file path.
+      TempTextName <- gsub(".txt","",TempTextName) #This removes the .txt from the end of the name.
+      TempDate <- strsplit(TempTextName,"_")[[1]][2]
       
-      for (i in 1:length(files)) {
-        TempTextName <- gsub(paste0(PopScidoclocation,"/"),"",files[i]) #This grabs just the end of the file path.
-        TempTextName <- gsub(".txt","",TempTextName) #This removes the .txt from the end of the name.
-        tempdf2 <- tempdf[grep(TempTextName,tempdf$Text),]
-        TempDate <- strsplit(TempTextName,"_")[[1]][2]
-        TempLength <- tempdf2$Total_Lemma[1]
+      tempdf <- PopSciWordFlagdf[grep(TempTextName,PopSciWordFlagdf$Text),]
+      TempLength <- unique(tempdf$Total_Lemma) #note that this unique is here to make SURE we only have one text
+      
+      for (z in 1:length(Categories)) {   
+        tempdf2 <- tempdf[grep(Categories[z],tempdf$Category),]
+        
         temprows <- matrix(,ncol=9,nrow=1)
         colnames(temprows) <- c("Text", "Text_ID","Date","Category","Frequency","Total_Lemma","Normalized_Freq","Sample_KWIC","Avg_Lemma_Perc")
         temprows[1,1] <- as.character(TempTextName)
