@@ -1,0 +1,224 @@
+---
+title: "02-RR-Nature"
+author: "Anoff Nicholas Cobblah"
+date: "July 31, 2018"
+output: html_document
+  html_document:
+    number_sections: yes
+    toc: true
+    toc_depth: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# July 2020: Play and Work Terms in 19th-Century Nature
+
+This script combines my Word Flagging and KWIC (tokenizer script) methods in order to create an interactive illustration of the frequency with which the lemma "amus", "plai", "play", "player", "recreat","labor","labori", "labour", "toil", "work", and "worker" were referenced in 19th-century volumes of Nature. The goal is to determine whether references to work and play make up a larger proportion of the corpus at the end of the century than at the beginning, and to visualize this in such a way that scrolling over a point automatically produces a key words in context (randomly).
+
+First we load our libraries and set the parameters.
+
+**IMPORTANT NOTE: Since creating a Word Flag matrix can take a nontrivial amount of time for larger corpuses, this script is designed only to run the program to create a new NatureWordFlagdf if there is a change to the dataset in folder "Documents" or if the previous NatureWordFlagdf has been deleted.**
+
+```{r,  eval=FALSE}
+    library(SnowballC)
+    library(ggplot2)
+    library(tokenizers)
+    library(readr)
+    library(plotly)
+    Naturelocation <- paste0(getwd())
+    Naturedoclocation <- paste0(Naturelocation,"/Corpora/Journals/Nature")
+    Naturelongconlength <- 250
+    Natureshortconlength <- 3
+    NaturePOSconlength <- 10
+    AmusementTerms <- c("amus")
+    PlayTerms <- c("plai", "play", "player")
+    RecreationTerms <- c("recreat")
+    LaborTerms <- c("labor","labori", "labour")
+    ToilTerms <- c("toil")
+    WorkTerms <- c("work", "worker")
+    Categories <- c("Amusement","Play","Recreation","Labor","Toil","Work")
+    Naturestemsearchedtermlist <- c(AmusementTerms,PlayTerms,RecreationTerms,LaborTerms,ToilTerms,WorkTerms)
+    Natureoutputlocation <- paste0(getwd(),"/WordFlagDataFrames")
+    NatureWordFlagdfPath <- paste0(Natureoutputlocation,"/","NatureWordFlagdf.txt")
+    NatureDocumentSize <- 400296176
+```
+
+To create the data frame compiling every reference to a term, or load in the previous data frame if nothing has changed, we run the following script.
+
+```{r DecNatureApp Word Flag,  eval=FALSE}
+      if(sum(file.info(list.files(Naturedoclocation, all.files = TRUE, recursive = TRUE, full.names=TRUE))$size) == NatureDocumentSize) {
+        NatureDataChange1 <- FALSE
+        print("The data in the 'Documents' folder appears not to have changed.")
+      }else{
+        NatureDataChange1 <- TRUE
+        print("The data in the 'Documents' folder appears to have been changed. A new NatureWordFlagdf will therefore be created. TO UPDATE THIS SCRIPT, PLEASE CHANGE THE NatureDocumentSize TO REFLECT THE NEW SIZE OF THE DOCUMENTS.")
+        }
+      
+      if(file.exists(NatureWordFlagdfPath) == TRUE) {
+        NatureDataChange2 <- FALSE
+        print("The previous NatureWordFlagdf still exists.")
+      }else{
+        NatureDataChange2 <- TRUE
+        print("The previous NaturewordFlagdf seems to have been moved or deleted.  A new NatureWordFlag will therefore be created.")
+        }
+
+  if(NatureDataChange1|NatureDataChange2 == TRUE) {
+  
+      files <- list.files(path = Naturedoclocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
+      if(file.exists(Natureoutputlocation) == FALSE){dir.create(Natureoutputlocation)}
+      NatureWordFlagmat <- matrix(,ncol=12,nrow=1)
+      for (i in 1:length(files)) {
+        fileName <- read_file(files[i])
+        Encoding(fileName) <- "UTF-8"  #since tokenize_sentences function requires things to be encoded in UTF-8, need to remove some data.
+        fileName <- iconv(fileName, "UTF-8", "UTF-8",sub='')
+        ltoken <- tokenize_words(fileName, lowercase = TRUE, stopwords = NULL, simplify = FALSE)
+        ltoken <- unlist(ltoken)
+        stemltoken <- wordStem(ltoken) #this uses the Snowball library to lemmatize the entire text.
+        textID <- i
+        for (p in 1:length(Naturestemsearchedtermlist)) {
+          Naturestemsearchedterm <- Naturestemsearchedtermlist[p]
+          for (j in 1:length(stemltoken)) {
+              if (Naturestemsearchedterm == stemltoken[j]) {
+                if (j <= Naturelongconlength) {longtempvec <- ltoken[(1:(j+Naturelongconlength))]}
+                if (j > Naturelongconlength) {longtempvec <- ltoken[(j-Naturelongconlength):(j+Naturelongconlength)]}
+                if (j <= Natureshortconlength) {shorttempvec <- ltoken[(1:(j+Natureshortconlength))]}
+                if (j > Natureshortconlength) {shorttempvec <- ltoken[(j-Natureshortconlength):(j+Natureshortconlength)]}
+                if (j <= NaturePOSconlength) {POStempvec <- ltoken[(1:(j+NaturePOSconlength))]}
+                if (j > NaturePOSconlength) {POStempvec <- ltoken[(j-NaturePOSconlength):(j+NaturePOSconlength)]}
+                TempTextName <- gsub(paste0(Naturedoclocation,"/"),"",files[i]) #This grabs just the end of the file path.
+                TempTextName <- gsub(".txt","",TempTextName) #This removes the .txt from the end of the name.
+                temprow <- matrix(,ncol=12,nrow=1)
+                colnames(temprow) <- c("Text", "Text_ID", "Naturestemsearchedterm","Lemma","Lemma_Perc","KWIC","Total_Lemma","Date","Category","Short_KWIC","POS_KWIC","Current_Date")
+                temprow[1,1] <- TempTextName
+                temprow[1,2] <- textID
+                temprow[1,3] <- Naturestemsearchedterm
+                temprow[1,4] <- j
+                temprow[1,5] <- (j/length(stemltoken))*100
+                temprow[1,6] <- as.character(paste(longtempvec,sep= " ",collapse=" "))
+                temprow[1,7] <- length(stemltoken)
+                temprow[1,8] <- strsplit(TempTextName,"_")[[1]][1]
+                #Determining Category
+                  if(Naturestemsearchedterm %in% AmusementTerms) {temprow[1,9] <- "Amusement"}
+                  if(Naturestemsearchedterm %in% PlayTerms) {temprow[1,9] <- "Play"}
+                  if(Naturestemsearchedterm %in% RecreationTerms) {temprow[1,9] <- "Recreation"}
+                  if(Naturestemsearchedterm %in% LaborTerms) {temprow[1,9] <- "Labor"}
+                  if(Naturestemsearchedterm %in% ToilTerms) {temprow[1,9] <- "Toil"}
+                  if(Naturestemsearchedterm %in% WorkTerms) {temprow[1,9] <- "Work"}
+                temprow[1,10] <- as.character(paste(shorttempvec,sep= " ",collapse=" "))
+                temprow[1,11] <- as.character(paste(POStempvec,sep= " ",collapse=" "))
+                temprow[1,12] <- format(Sys.time(), "%Y-%m-%d")
+                NatureWordFlagmat <- rbind(NatureWordFlagmat,temprow)
+              }
+          }
+        }
+        print(files[i]) #let's user watch as code runs for long searches
+      }
+      NatureWordFlagmat <- NatureWordFlagmat[-1,]
+      NatureWordFlagdf <- as.data.frame(NatureWordFlagmat)
+      write.table(NatureWordFlagdf, NatureWordFlagdfPath)
+      NatureWordFlagdf[1:5,]
+  }else{
+    print("Loading the previous dataset as NatureWordFlagdf")
+    NatureWordFlagdf <- read.table(NatureWordFlagdfPath)
+  }
+NatureWordFlagdf
+```
+
+We can then add up the values in SciLifeWordFlagdf to make a table of the frequency of play and work terms for each text: NatureFreqmat.Again, it's important to do it this way because it lets us assign a random KWIC for later.
+
+```{r,  eval=FALSE}
+  # Adding values from NatureWordFlagdf together to get a matrix of normalized frequencies for each category, as NatureFreqmat
+
+  # Adding values from NatureWordFlagdf together to get a matrix of normalized frequencies for each category, as NatureFreqmat
+
+      NatureFreqmat <- matrix(,ncol=9,nrow=1)
+      files <- list.files(path = Naturedoclocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
+    for (i in 1:length(files)) {
+      TempTextName <- gsub(paste0(Naturedoclocation,"/"),"",files[i]) #This grabs just the end of the file path.
+      TempTextName <- gsub(".txt","",TempTextName) #This removes the .txt from the end of the name.
+      TempDate <- strsplit(TempTextName,"_")[[1]][1]
+      
+      tempdf <- NatureWordFlagdf[grep(TempTextName,NatureWordFlagdf$Text),]
+      TempLength <- unique(tempdf$Total_Lemma) #note that this unique is here to make SURE we only have one text
+      
+      for (z in 1:length(Categories)) {   
+        tempdf2 <- tempdf[grep(Categories[z],tempdf$Category),]
+        
+        temprows <- matrix(,ncol=9,nrow=1)
+        colnames(temprows) <- c("Text", "Text_ID","Date","Category","Frequency","Total_Lemma","Normalized_Freq","Sample_KWIC","Avg_Lemma_Perc")
+        temprows[1,1] <- as.character(TempTextName)
+        temprows[1,2] <- i
+        temprows[1,3] <- as.character(TempDate)
+        temprows[1,4] <- Categories[z]
+        temprows[1,5] <- nrow(tempdf2)
+        temprows[1,6]<- as.character(TempLength)
+        temprows[1,7] <- (as.numeric(temprows[1,5])/as.numeric(temprows[1,6]))*100
+        #temprows[1,8]
+          if(nrow(tempdf2) > 0){temprows[1,8] <- as.character(sample(tempdf2$Short_KWIC,1))}else{temprows[1,8] <- NA}
+        temprows[1,9] <- mean(as.numeric(as.character(tempdf2$Lemma_Perc)))
+        NatureFreqmat <- rbind(NatureFreqmat,temprows)
+      }
+    }
+    NatureFreqmat <- NatureFreqmat[-1,]
+    NatureFreqdf <- as.data.frame(NatureFreqmat)
+    NatureFreqdf
+      
+```
+
+With the data in hand, we can make an interactive plot to see the normalized frequencies for each text, and a random KWIC. This helps us see whether our data seems like it makes sense.
+
+```{r,  eval=FALSE}
+# Visualizing NatureFreqdf BY DATE
+      p <- ggplot(NatureFreqdf, aes(y = as.numeric(as.character(Normalized_Freq)), x = as.numeric(substr(Date,1,4)), color = Category, label = Sample_KWIC))
+      pg <- geom_point(size=1,pch = 16)
+      pl <- p + pg + labs(x = "Date", y = "Normalized Frequency (% of Words in Text)", title = "Appearances of Play and Work Rhetoric within 19th-Century Popular Science Corpus")
+      ggplotly(pl)
+```
+
+Once we've verified that the data within texts looks right, we can do the same, but per decade, by creating a new dataframe: NatureFreqDecadedf.
+
+```{r,  eval=FALSE}
+  # Adding values from NatureFreqdf together to get a matrix of normalized frequencies for each decade, as NatureFreqDecadedf
+
+      NatureFreqDecadeMat <- matrix(,ncol=6,nrow=1)
+      
+    Decades <- c(180, 181, 182, 183, 184, 185, 186, 187, 188, 189)
+    for (z in 1:length(Categories)) { 
+      tempdf <- NatureFreqdf[grep(Categories[z],NatureFreqdf$Category),]
+      
+      for (i in 1:length(Decades)) {
+        TempDecade <- paste0(Decades[i],"0s")
+        tempdf2 <- tempdf[grep(Decades[i],tempdf$Date),]
+        temprows <- matrix(,ncol=6,nrow=1)
+        colnames(temprows) <- c("Decade","Category","Frequency","Total_Lemma","Normalized_Freq","Sample_KWIC")
+        temprows[1,1] <- as.character(TempDecade)
+        temprows[1,2] <- Categories[z]
+        temprows[1,3] <- sum(as.numeric(as.character(tempdf2$Frequency)), na.rm=TRUE)
+        temprows[1,4] <- sum(as.numeric(as.character(tempdf2$Total_Lemma)), na.rm=TRUE)
+        temprows[1,5] <- (as.numeric(temprows[1,3])/as.numeric(temprows[1,4]))*100
+        #temprows[1,6]
+          if(nrow(tempdf2) > 0){temprows[1,6] <- as.character(sample(tempdf2$Sample_KWIC,1))}else{temprows[1,6] <- NA}
+        NatureFreqDecadeMat <- rbind(NatureFreqDecadeMat,temprows)
+      }
+    }
+    NatureFreqDecadeMat <- NatureFreqDecadeMat[-1,]
+    NatureFreqDecadedf <- as.data.frame(NatureFreqDecadeMat)
+    NatureFreqDecadedf
+      
+```
+
+Now we can visualize this for each category by decade, narrowing our decades to just the nineteenth-century.
+
+```{r,  eval=FALSE}
+#set a category.
+z=6
+tempdf <- NatureFreqDecadedf[grep(Categories[z],NatureFreqDecadedf$Category),]
+
+# Visualizing the category BY decade. Note that there is no y axis because it kept running into the numbers, and trying to fix it was becoming a pain.
+      p <- ggplot(tempdf, aes(y = as.numeric(as.character(Normalized_Freq)), x = Decade, label = Sample_KWIC))
+      pg <- geom_bar(stat="identity",position="dodge")
+      pl <- p + pg + xlab("Decade") +ylab("Normalized Frequency (%)") + ggtitle(paste0("Normalized Frequency of '",Categories[z],"' by Decade\n in Nature (1869 - 1900)"))+theme( axis.text.y=element_text(angle=90))
+      ggplotly(pl)
+```
